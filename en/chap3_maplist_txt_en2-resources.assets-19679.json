@@ -1,0 +1,148 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "chap3_maplist_txt_en2",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "オープニング00\r",
+        "Type": 0
+      },
+      {
+        "Data": "携帯電話\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＯＰ階段\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＯＰトイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "Chapter3\r",
+        "Type": 0
+      },
+      {
+        "Data": "２Ｆ教室\r",
+        "Type": 0
+      },
+      {
+        "Data": "教室＿暗\r",
+        "Type": 0
+      },
+      {
+        "Data": "保健室＿暗\r",
+        "Type": 0
+      },
+      {
+        "Data": "トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下１Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下１Ｆ（長\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下３Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "玄関\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館廊下１F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館廊下２F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館階段１F手前\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館階段\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館玄関\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館２F連絡通路\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館トイレ前１F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館トイレ前２F\r",
+        "Type": 0
+      },
+      {
+        "Data": "渡り廊下\r",
+        "Type": 0
+      },
+      {
+        "Data": "音楽室\r",
+        "Type": 0
+      },
+      {
+        "Data": "図工室\r",
+        "Type": 0
+      },
+      {
+        "Data": "職員室\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館男子トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "●\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館由香ゲームオーバー\r",
+        "Type": 0
+      },
+      {
+        "Data": "渡り廊下ＯＰ\r",
+        "Type": 0
+      },
+      {
+        "Data": "地下室イベント\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 161
+  },
+  "m_Name": "chap5_maplist_dat_jp",
+  "cpMapDefaultData": {
+    "Array": [
+      {
+        "Name": "オープニング",
+        "MapNo": 0,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_00_00.bmp",
+            "chap5_map_00_01.bmp",
+            "chap5_map_00_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_00_attr.dat\r"
+      },
+      {
+        "Name": "別館トイレ前２F",
+        "MapNo": 1,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_01_00.bmp",
+            "chap5_map_01_01.bmp",
+            "chap5_map_01_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_01_attr.dat\r"
+      },
+      {
+        "Name": "別館トイレ前１F",
+        "MapNo": 2,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_02_00.bmp",
+            "chap5_map_02_01.bmp",
+            "chap5_map_02_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_02_attr.dat\r"
+      },
+      {
+        "Name": "別館階段１F手前",
+        "MapNo": 3,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_03_00.bmp",
+            "chap5_map_03_01.bmp",
+            "chap5_map_03_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_03_attr.dat\r"
+      },
+      {
+        "Name": "別館階段",
+        "MapNo": 4,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_04_00.bmp",
+            "chap5_map_04_01.bmp",
+            "chap5_map_04_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_04_attr.dat\r"
+      },
+      {
+        "Name": "別館玄関",
+        "MapNo": 5,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 1,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_05_00.bmp",
+            "chap5_map_05_01.bmp",
+            "chap5_map_05_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_05_attr.dat\r"
+      },
+      {
+        "Name": "別館廊下１F",
+        "MapNo": 6,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 1,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_06_00.bmp",
+            "chap5_map_06_01.bmp",
+            "chap5_map_06_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_06_attr.dat\r"
+      },
+      {
+        "Name": "別館廊下２F",
+        "MapNo": 7,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 1,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_07_00.bmp",
+            "chap5_map_07_01.bmp",
+            "chap5_map_07_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_07_attr.dat\r"
+      },
+      {
+        "Name": "別館２F連絡通路",
+        "MapNo": 8,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_08_00.bmp",
+            "chap5_map_08_01.bmp",
+            "chap5_map_08_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_08_attr.dat\r"
+      },
+      {
+        "Name": "渡り廊下",
+        "MapNo": 9,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 1,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_09_00.bmp",
+            "chap5_map_09_01.bmp",
+            "chap5_map_09_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_09_attr.dat\r"
+      },
+      {
+        "Name": "廊下１F",
+        "MapNo": 10,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_10_00.bmp",
+            "chap5_map_10_01.bmp",
+            "chap5_map_10_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_10_attr.dat\r"
+      },
+      {
+        "Name": "廊下２F",
+        "MapNo": 11,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 1,
+        "MapName": {
+          "Array": [
+            "chap5_map_11_00.bmp",
+            "chap5_map_11_01.bmp",
+            "chap5_map_11_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_11_attr.dat\r"
+      },
+      {
+        "Name": "廊下２F-2",
+        "MapNo": 12,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 1,
+        "MapName": {
+          "Array": [
+            "chap5_map_12_00.bmp",
+            "chap5_map_12_01.bmp",
+            "chap5_map_12_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_12_attr.dat\r"
+      },
+      {
+        "Name": "廊下３F",
+        "MapNo": 13,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_13_00.bmp",
+            "chap5_map_13_01.bmp",
+            "chap5_map_13_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_13_attr.dat\r"
+      },
+      {
+        "Name": "おどり場",
+        "MapNo": 14,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_14_00.bmp",
+            "chap5_map_14_01.bmp",
+            "chap5_map_14_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_14_attr.dat\r"
+      },
+      {
+        "Name": "如月学園廊下",
+        "MapNo": 15,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_15_00.bmp",
+            "chap5_map_15_01.bmp",
+            "chap5_map_15_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_15_attr.dat\r"
+      },
+      {
+        "Name": "用務員室",
+        "MapNo": 16,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_16_00.bmp",
+            "chap5_map_16_01.bmp",
+            "chap5_map_16_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_16_attr.dat\r"
+      },
+      {
+        "Name": "２－９教室",
+        "MapNo": 17,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_17_00.bmp",
+            "chap5_map_17_01.bmp",
+            "chap5_map_17_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_17_attr.dat\r"
+      },
+      {
+        "Name": "本館トイレ",
+        "MapNo": 18,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_18_00.bmp",
+            "chap5_map_18_01.bmp",
+            "chap5_map_18_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_18_attr.dat\r"
+      },
+      {
+        "Name": "哲志の部屋",
+        "MapNo": 19,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_19_00.bmp",
+            "chap5_map_19_01.bmp",
+            "chap5_map_19_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_19_attr.dat\r"
+      },
+      {
+        "Name": "１－Ａ",
+        "MapNo": 20,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_20_00.bmp",
+            "chap5_map_20_01.bmp",
+            "chap5_map_20_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_20_attr.dat\r"
+      },
+      {
+        "Name": "理科室",
+        "MapNo": 21,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_21_00.bmp",
+            "chap5_map_21_01.bmp",
+            "chap5_map_21_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_21_attr.dat\r"
+      },
+      {
+        "Name": "理科室デモ",
+        "MapNo": 22,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_22_00.bmp",
+            "chap5_map_22_01.bmp",
+            "chap5_map_22_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_22_attr.dat\r"
+      },
+      {
+        "Name": "用務員室裏部屋",
+        "MapNo": 23,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_23_00.bmp",
+            "chap5_map_23_01.bmp",
+            "chap5_map_23_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_23_attr.dat\r"
+      },
+      {
+        "Name": "資料室",
+        "MapNo": 24,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_24_00.bmp",
+            "chap5_map_24_01.bmp",
+            "chap5_map_24_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_24_attr.dat\r"
+      },
+      {
+        "Name": "さかさ教室",
+        "MapNo": 25,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_25_00.bmp",
+            "chap5_map_25_01.bmp",
+            "chap5_map_25_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_25_attr.dat\r"
+      },
+      {
+        "Name": "チャプター３廊下１Ｆ",
+        "MapNo": 26,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 1,
+        "MapName": {
+          "Array": [
+            "chap5_map_26_00.bmp",
+            "chap5_map_26_01.bmp",
+            "chap5_map_26_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_26_attr.dat\r"
+      },
+      {
+        "Name": "チャプター３廊下２Ｆ",
+        "MapNo": 27,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 1,
+        "MapName": {
+          "Array": [
+            "chap5_map_27_00.bmp",
+            "chap5_map_27_01.bmp",
+            "chap5_map_27_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_27_attr.dat\r"
+      },
+      {
+        "Name": "チャプター３おどり場",
+        "MapNo": 28,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_28_00.bmp",
+            "chap5_map_28_01.bmp",
+            "chap5_map_28_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_28_attr.dat\r"
+      },
+      {
+        "Name": "玄関",
+        "MapNo": 29,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_29_00.bmp",
+            "chap5_map_29_01.bmp",
+            "chap5_map_29_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_29_attr.dat\r"
+      },
+      {
+        "Name": "校長室",
+        "MapNo": 30,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 150,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_30_00.bmp",
+            "chap5_map_30_01.bmp",
+            "chap5_map_30_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_30_attr.dat\r"
+      },
+      {
+        "Name": "地下通路１",
+        "MapNo": 31,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_31_00.bmp",
+            "chap5_map_31_01.bmp",
+            "chap5_map_31_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_31_attr.dat\r"
+      },
+      {
+        "Name": "地下通路１－２",
+        "MapNo": 32,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_32_00.bmp",
+            "chap5_map_32_01.bmp",
+            "chap5_map_32_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_32_attr.dat\r"
+      },
+      {
+        "Name": "地下通路２",
+        "MapNo": 33,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_33_00.bmp",
+            "chap5_map_33_01.bmp",
+            "chap5_map_33_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_33_attr.dat\r"
+      },
+      {
+        "Name": "解体部屋",
+        "MapNo": 34,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_34_00.bmp",
+            "chap5_map_34_01.bmp",
+            "chap5_map_34_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_34_attr.dat\r"
+      },
+      {
+        "Name": "死体プール",
+        "MapNo": 35,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_35_00.bmp",
+            "chap5_map_35_01.bmp",
+            "chap5_map_35_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_35_attr.dat\r"
+      },
+      {
+        "Name": "エンディングへ",
+        "MapNo": 36,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_36_00.bmp",
+            "chap5_map_36_01.bmp",
+            "chap5_map_36_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_36_attr.dat\r"
+      },
+      {
+        "Name": "音楽室のコピー",
+        "MapNo": 37,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 1,
+        "Enemy": 1,
+        "MapName": {
+          "Array": [
+            "chap5_map_37_00.bmp",
+            "chap5_map_37_01.bmp",
+            "chap5_map_37_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_37_attr.dat\r"
+      },
+      {
+        "Name": "現代校舎２－９教室",
+        "MapNo": 38,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_38_00.bmp",
+            "chap5_map_38_01.bmp",
+            "chap5_map_38_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_38_attr.dat\r"
+      },
+      {
+        "Name": "新校舎夕方",
+        "MapNo": 39,
+        "DarkEffect": 0,
+        "FogEffect": 4,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_39_00.bmp",
+            "chap5_map_39_01.bmp",
+            "chap5_map_39_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_39_attr.dat\r"
+      },
+      {
+        "Name": "テレビ部屋",
+        "MapNo": 40,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_40_00.bmp",
+            "chap5_map_40_01.bmp",
+            "chap5_map_40_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_40_attr.dat\r"
+      },
+      {
+        "Name": "殺害現場",
+        "MapNo": 41,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_41_00.bmp",
+            "chap5_map_41_01.bmp",
+            "chap5_map_41_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_41_attr.dat\r"
+      },
+      {
+        "Name": "チャプ１トイレ",
+        "MapNo": 42,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_42_00.bmp",
+            "chap5_map_42_01.bmp",
+            "chap5_map_42_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_42_attr.dat\r"
+      },
+      {
+        "Name": "クリア前渡り廊下",
+        "MapNo": 43,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 1,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_43_00.bmp",
+            "chap5_map_43_01.bmp",
+            "chap5_map_43_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_43_attr.dat\r"
+      },
+      {
+        "Name": "バッドED殺害現場",
+        "MapNo": 44,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_44_00.bmp",
+            "chap5_map_44_01.bmp",
+            "chap5_map_44_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_44_attr.dat\r"
+      },
+      {
+        "Name": "ヨシエ保健室",
+        "MapNo": 45,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 80,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap5_map_45_00.bmp",
+            "chap5_map_45_01.bmp",
+            "chap5_map_45_02.bmp"
+          ]
+        },
+        "MapAttr": "chap5_map_45_attr.dat\r"
+      }
+    ]
+  }
+}

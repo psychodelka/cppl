@@ -1,0 +1,1178 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 608
+  },
+  "m_Name": "eventgraphiclist_txt_en2",
+  "cpEventPictureData": {
+    "Array": [
+      {
+        "Name": "なし",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef01",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef01b",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef02",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef03",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef04",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef05",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef06",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef07",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef08",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef09",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef09b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef10",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef11",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef12",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef13",
+        "Etc0": 1,
+        "Etc1": 1,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef14",
+        "Etc0": 1,
+        "Etc1": 1,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef15",
+        "Etc0": 1,
+        "Etc1": 1,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef16",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef16b",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef17",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef17b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef18",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef18b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef19",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef20",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef21",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef22",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef23",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef24",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef25",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef26",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef26b",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef27",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef28",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef29",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef30",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef31",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef32",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef32a",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef32b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef32c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef33",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef34",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ef34b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev01",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev01b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev02",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev03",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev04",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev05",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev06",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev07",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev07b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev07b_2",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev07b_3",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev07_2",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev07_3",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev08",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev09",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev10",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev11",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev11b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev11c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev12",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev13",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev13b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev13c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev14",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev15",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev16",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev16b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev17",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev18",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev19",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev20",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev20b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev21",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev22",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev23",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev23b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev24",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev24b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev25",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev26",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev27",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev27b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev28",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev29",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev30",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev30b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev30c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev30d",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev31",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev32",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev32b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev33",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev34b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev35",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36d",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e1",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e2",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e3",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e3b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e3c",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e4",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e5",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e5b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e5c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e6",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e7",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e8",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e9",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e9b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev36e9c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev37",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev38",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev39",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev40",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev41",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev42",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev43",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44c",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44d",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44e",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44f",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev44g",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev45",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev45b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev46",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev46b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev47",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev48",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev48b",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev48c",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev49",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev49b",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev50",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev51",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "ev52",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "sand_tv",
+        "Etc0": 1,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "sand_tv2",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "TextEFF00",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "TextEFF01",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "TextEFF02",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "Title_c5",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "opening",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "Next_Chapter_2",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "Next_Chapter_3",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "Next_Chapter_4",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "Next_Chapter_5",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "Chap4extraend",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_1",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_2",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_3",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_4",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_5",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_6",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_7",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      },
+      {
+        "Name": "badend_8",
+        "Etc0": 0,
+        "Etc1": 0,
+        "Etc2": 0,
+        "Etc3": 0
+      }
+    ]
+  }
+}

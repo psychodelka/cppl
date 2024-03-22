@@ -1,0 +1,204 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "extra030_maplist_txt_en2",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "オープニング\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館トイレ前２F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館トイレ前１F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館階段１F手前\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館階段\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館玄関\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館廊下１F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館廊下２F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館２F連絡通路\r",
+        "Type": 0
+      },
+      {
+        "Data": "渡り廊下\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下１F\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下２F\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下２F-2\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下３F\r",
+        "Type": 0
+      },
+      {
+        "Data": "おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "如月学園廊下\r",
+        "Type": 0
+      },
+      {
+        "Data": "用務員室\r",
+        "Type": 0
+      },
+      {
+        "Data": "２－９教室\r",
+        "Type": 0
+      },
+      {
+        "Data": "本館トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "哲志の部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "１－Ａ\r",
+        "Type": 0
+      },
+      {
+        "Data": "理科室\r",
+        "Type": 0
+      },
+      {
+        "Data": "理科室デモ\r",
+        "Type": 0
+      },
+      {
+        "Data": "用務員室裏部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "資料室\r",
+        "Type": 0
+      },
+      {
+        "Data": "さかさ教室\r",
+        "Type": 0
+      },
+      {
+        "Data": "チャプター３廊下１Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "チャプター３廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "チャプター３おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "玄関\r",
+        "Type": 0
+      },
+      {
+        "Data": "校長室\r",
+        "Type": 0
+      },
+      {
+        "Data": "地下通路１\r",
+        "Type": 0
+      },
+      {
+        "Data": "地下通路１－２\r",
+        "Type": 0
+      },
+      {
+        "Data": "地下通路２\r",
+        "Type": 0
+      },
+      {
+        "Data": "解体部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "死体プール\r",
+        "Type": 0
+      },
+      {
+        "Data": "エンディングへ\r",
+        "Type": 0
+      },
+      {
+        "Data": "音楽室のコピー\r",
+        "Type": 0
+      },
+      {
+        "Data": "現代校舎２－９教室\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎夕方\r",
+        "Type": 0
+      },
+      {
+        "Data": "テレビ部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "殺害現場\r",
+        "Type": 0
+      },
+      {
+        "Data": "チャプ１トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "クリア前渡り廊下\r",
+        "Type": 0
+      },
+      {
+        "Data": "バッドED殺害現場\r",
+        "Type": 0
+      },
+      {
+        "Data": "ヨシエ保健室\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

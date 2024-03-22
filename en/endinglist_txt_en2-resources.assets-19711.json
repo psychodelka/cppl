@@ -1,0 +1,502 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 265
+  },
+  "m_Name": "endinglist_txt_en2",
+  "cpEndingData": {
+    "Array": [
+      {
+        "Index": 0,
+        "Capter": 1,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "Chapter Clear",
+        "Info": "Seiko hangs herself, leaving Naomi behind."
+      },
+      {
+        "Index": 1,
+        "Capter": 1,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "Wrong End 1",
+        "Info": "Possessed by spirits; severed own tongue with scissors."
+      },
+      {
+        "Index": 2,
+        "Capter": 1,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "Wrong End 2",
+        "Info": "Attacked and enveloped by black mist-like spirit."
+      },
+      {
+        "Index": 3,
+        "Capter": 1,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "Wrong End 3",
+        "Info": "Read Victim's Memoirs to completion and succumbed to Darkening."
+      },
+      {
+        "Index": 4,
+        "Capter": 2,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "Chapter Clear",
+        "Info": "Mayu dies a gruesome death. Was the killer's repentance a lie?"
+      },
+      {
+        "Index": 5,
+        "Capter": 2,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "Wrong End 1",
+        "Info": "Buried alive."
+      },
+      {
+        "Index": 6,
+        "Capter": 2,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "Wrong End 2",
+        "Info": "Body bisected by wire trap."
+      },
+      {
+        "Index": 7,
+        "Capter": 2,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "Wrong End 3",
+        "Info": "Pushed down stairs by Ayumi; died from multiple impact wounds."
+      },
+      {
+        "Index": 8,
+        "Capter": 2,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "Wrong End 4",
+        "Info": "Read Victim's Memoirs to completion and killed Ayumi."
+      },
+      {
+        "Index": 9,
+        "Capter": 3,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "Chapter Clear",
+        "Info": "After being separated from Yuka, Satoshi runs into Naho Saenoki. Just who is she?"
+      },
+      {
+        "Index": 10,
+        "Capter": 3,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "Wrong End 1",
+        "Info": "Cursed by spirit; fell from second floor and died."
+      },
+      {
+        "Index": 11,
+        "Capter": 3,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "Wrong End 2",
+        "Info": "Eyes dug out of skull by spirit."
+      },
+      {
+        "Index": 12,
+        "Capter": 3,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "Wrong End 3",
+        "Info": "Read Victim's Memoirs; soul was taken over by despair and rotted away."
+      },
+      {
+        "Index": 13,
+        "Capter": 3,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "Wrong End 4",
+        "Info": "Succumbed to poison and collapsed."
+      },
+      {
+        "Index": 14,
+        "Capter": 4,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "Chapter Clear",
+        "Info": "Yoshiki and Ayumi return to the real world, yet..."
+      },
+      {
+        "Index": 15,
+        "Capter": 4,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "Wrong End 1",
+        "Info": "Attacked and killed by child spirit."
+      },
+      {
+        "Index": 16,
+        "Capter": 4,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "Wrong End 2",
+        "Info": "Scissor plunged into chest; bled out."
+      },
+      {
+        "Index": 17,
+        "Capter": 4,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "Wrong End 3",
+        "Info": "Sucked into pool drain; body shredded."
+      },
+      {
+        "Index": 18,
+        "Capter": 4,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "Wrong End 4",
+        "Info": "Drowned in murky, stagnant water."
+      },
+      {
+        "Index": 19,
+        "Capter": 4,
+        "SubIndex": 5,
+        "DlFlag": 0,
+        "Label": "ED No.6",
+        "Name": "Extra End",
+        "Info": "Ms. Yui's final moments, devoted to the very end."
+      },
+      {
+        "Index": 20,
+        "Capter": 5,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "True End",
+        "Info": "The tragedy comes to an end."
+      },
+      {
+        "Index": 21,
+        "Capter": 5,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "Extra End",
+        "Info": "Returned to a world without Yuka or Naomi."
+      },
+      {
+        "Index": 22,
+        "Capter": 5,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "Wrong End 2",
+        "Info": "Burned to death by anatomical model."
+      },
+      {
+        "Index": 23,
+        "Capter": 5,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "Wrong End 3",
+        "Info": "Rendered unable to escape due to presence of only one survivor."
+      },
+      {
+        "Index": 24,
+        "Capter": 5,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "Wrong End 4",
+        "Info": "Attacked and killed by Darkened Naomi."
+      },
+      {
+        "Index": 25,
+        "Capter": 5,
+        "SubIndex": 5,
+        "DlFlag": 0,
+        "Label": "ED No.6",
+        "Name": "Wrong End 5",
+        "Info": "Attacked and killed by Darkened Ayumi."
+      },
+      {
+        "Index": 26,
+        "Capter": 5,
+        "SubIndex": 6,
+        "DlFlag": 0,
+        "Label": "ED No.7",
+        "Name": "Wrong End 6",
+        "Info": "Unable to escape; trapped in Heavenly Host for all eternity by Yuki."
+      },
+      {
+        "Index": 27,
+        "Capter": 5,
+        "SubIndex": 7,
+        "DlFlag": 0,
+        "Label": "ED No.8",
+        "Name": "Wrong End 7",
+        "Info": "Doomed to repeat events of Heavenly Host in endless cycle."
+      },
+      {
+        "Index": 28,
+        "Capter": 5,
+        "SubIndex": 8,
+        "DlFlag": 0,
+        "Label": "ED No.9",
+        "Name": "Wrong End 8",
+        "Info": "Drowned in pool of insects."
+      },
+      {
+        "Index": 29,
+        "Capter": 6,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "Extra1",
+        "Info": "Extra Clear: Helped them return to where they belong."
+      },
+      {
+        "Index": 30,
+        "Capter": 6,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "Extra1",
+        "Info": "Wrong End 1: Tormented by spirits until death."
+      },
+      {
+        "Index": 31,
+        "Capter": 6,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "Extra1",
+        "Info": "Wrong End 2: Wandered halls of school until death."
+      },
+      {
+        "Index": 32,
+        "Capter": 6,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "Extra2",
+        "Info": "Extra Clear: Maybe we'll meet again."
+      },
+      {
+        "Index": 33,
+        "Capter": 6,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "Extra3",
+        "Info": "Extra Clear: A supportive sister."
+      },
+      {
+        "Index": 34,
+        "Capter": 6,
+        "SubIndex": 5,
+        "DlFlag": 0,
+        "Label": "ED No.6",
+        "Name": "Extra4",
+        "Info": "Extra Clear: Big tiddy lover."
+      },
+      {
+        "Index": 35,
+        "Capter": 6,
+        "SubIndex": 6,
+        "DlFlag": 0,
+        "Label": "ED No.7",
+        "Name": "Extra5",
+        "Info": "Extra Clear: A real heart-to-heart."
+      },
+      {
+        "Index": 36,
+        "Capter": 6,
+        "SubIndex": 7,
+        "DlFlag": 0,
+        "Label": "ED No.8",
+        "Name": "Extra6",
+        "Info": "Extra Clear: The class rep hates being a burden. "
+      },
+      {
+        "Index": 37,
+        "Capter": 6,
+        "SubIndex": 8,
+        "DlFlag": 0,
+        "Label": "ED No.9",
+        "Name": "Extra7",
+        "Info": "Extra Clear: Gave the escape plan a shot."
+      },
+      {
+        "Index": 38,
+        "Capter": 6,
+        "SubIndex": 9,
+        "DlFlag": 0,
+        "Label": "ED No.10",
+        "Name": "Extra8",
+        "Info": "Extra Clear: For a reward."
+      },
+      {
+        "Index": 39,
+        "Capter": 6,
+        "SubIndex": 10,
+        "DlFlag": 0,
+        "Label": "ED No.11",
+        "Name": "Extra9",
+        "Info": "Extra Clear: Two boys return home arm in arm."
+      },
+      {
+        "Index": 40,
+        "Capter": 6,
+        "SubIndex": 11,
+        "DlFlag": 0,
+        "Label": "ED No.12",
+        "Name": "Extra10",
+        "Info": "Extra Clear: The scented beads' secret power."
+      },
+      {
+        "Index": 41,
+        "Capter": 6,
+        "SubIndex": 12,
+        "DlFlag": 0,
+        "Label": "ED No.13",
+        "Name": "Extra11",
+        "Info": "Extra Clear: Never gave up the search, no matter how bad things got."
+      },
+      {
+        "Index": 42,
+        "Capter": 6,
+        "SubIndex": 13,
+        "DlFlag": 0,
+        "Label": "ED No.14",
+        "Name": "Extra12",
+        "Info": "Extra Clear: Recorded the footage of a lifetime for future generations."
+      },
+      {
+        "Index": 43,
+        "Capter": 6,
+        "SubIndex": 14,
+        "DlFlag": 0,
+        "Label": "ED No.15",
+        "Name": "Extra12",
+        "Info": "Wrong End 1: Flung headlong into exit; neck broken."
+      },
+      {
+        "Index": 44,
+        "Capter": 6,
+        "SubIndex": 15,
+        "DlFlag": 0,
+        "Label": "ED No.16",
+        "Name": "Extra12",
+        "Info": "Wrong End 2: Tongue and eyes removed by spirit."
+      },
+      {
+        "Index": 45,
+        "Capter": 6,
+        "SubIndex": 16,
+        "DlFlag": 0,
+        "Label": "ED No.17",
+        "Name": "Extra12",
+        "Info": "Wrong End 3: Tongue and entrails removed by spirit."
+      },
+      {
+        "Index": 46,
+        "Capter": 6,
+        "SubIndex": 17,
+        "DlFlag": 0,
+        "Label": "ED No.18",
+        "Name": "Extra12",
+        "Info": "Wrong End 4: Struck with hammer by Yoshikazu."
+      },
+      {
+        "Index": 47,
+        "Capter": 6,
+        "SubIndex": 18,
+        "DlFlag": 0,
+        "Label": "ED No.19",
+        "Name": "Extra13",
+        "Info": "Extra Clear: Saved by your savior's game console."
+      },
+      {
+        "Index": 48,
+        "Capter": 6,
+        "SubIndex": 19,
+        "DlFlag": 0,
+        "Label": "ED No.20",
+        "Name": "Extra13",
+        "Info": "Wrong End 1: Earned the ire of the spirits; attacked and killed."
+      },
+      {
+        "Index": 49,
+        "Capter": 6,
+        "SubIndex": 20,
+        "DlFlag": 0,
+        "Label": "ED No.21",
+        "Name": "Extra14",
+        "Info": "Extra Clear: A murderer who prowls the school's halls."
+      },
+      {
+        "Index": 50,
+        "Capter": 6,
+        "SubIndex": 21,
+        "DlFlag": 1,
+        "Label": "ED No.22",
+        "Name": "Extra15",
+        "Info": "Extra Clear: Determined to keep her alive."
+      },
+      {
+        "Index": 51,
+        "Capter": 6,
+        "SubIndex": 22,
+        "DlFlag": 1,
+        "Label": "ED No.23",
+        "Name": "Extra15",
+        "Info": "Wrong End 1: He bought the wrath of the human souls and was attacked and died."
+      },
+      {
+        "Index": 52,
+        "Capter": 6,
+        "SubIndex": 23,
+        "DlFlag": 1,
+        "Label": "ED No.24",
+        "Name": "Extra15",
+        "Info": "Wrong End 2: He bought the wrath of the human souls and was attacked and died."
+      },
+      {
+        "Index": 53,
+        "Capter": 6,
+        "SubIndex": 24,
+        "DlFlag": 1,
+        "Label": "ED No.25",
+        "Name": "Extra16",
+        "Info": "Extra Clear: Met that Legendary Survivor."
+      }
+    ]
+  }
+}

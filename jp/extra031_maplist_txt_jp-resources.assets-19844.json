@@ -1,0 +1,140 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "extra031_maplist_txt_jp",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "オープニング00\r",
+        "Type": 0
+      },
+      {
+        "Data": "現代女の子の部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "現代豪華な部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "如月学園教室（夕方）\r",
+        "Type": 0
+      },
+      {
+        "Data": "如月学園廊下（夕方）\r",
+        "Type": 0
+      },
+      {
+        "Data": "オープニング\r",
+        "Type": 0
+      },
+      {
+        "Data": "如月学園教室（暗闇）\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎02\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎03\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎壊れ１\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎壊れ２\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎壊れ３\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎壊れ４\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎壊れ５\r",
+        "Type": 0
+      },
+      {
+        "Data": "黒\r",
+        "Type": 0
+      },
+      {
+        "Data": "教室01\r",
+        "Type": 0
+      },
+      {
+        "Data": "教室02\r",
+        "Type": 0
+      },
+      {
+        "Data": "キャラ紹介\r",
+        "Type": 0
+      },
+      {
+        "Data": "１のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "２のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "３のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "５のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "保健室\r",
+        "Type": 0
+      },
+      {
+        "Data": "トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下01\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下１Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下３Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下２Ｆ（最後の地震後）\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

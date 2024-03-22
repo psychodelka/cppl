@@ -1,0 +1,262 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "bitmaplist_txt_jp",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "00_a_Bets1F_genkan"
+      },
+      {
+        "Data": "00_a_Bets1F_higasi"
+      },
+      {
+        "Data": "00_a_Bets1F_nishi"
+      },
+      {
+        "Data": "00_a_Bets2F_higasi"
+      },
+      {
+        "Data": "00_a_Bets2F_nishi"
+      },
+      {
+        "Data": "00_a_final_chikatsuuro"
+      },
+      {
+        "Data": "00_a_final_kaitaibeya"
+      },
+      {
+        "Data": "00_a_final_sakasakyousitu"
+      },
+      {
+        "Data": "00_a_final_satugaibeya"
+      },
+      {
+        "Data": "00_a_Honka1F_genkan"
+      },
+      {
+        "Data": "00_a_Honka1F_higasi"
+      },
+      {
+        "Data": "00_a_Honka1F_nishi"
+      },
+      {
+        "Data": "00_a_Honka2F_chuou"
+      },
+      {
+        "Data": "00_a_Honka2F_higasi"
+      },
+      {
+        "Data": "00_a_Honka2F_nishi"
+      },
+      {
+        "Data": "00_a_Honka3F_higasi"
+      },
+      {
+        "Data": "00_a_Honka3F_nishi"
+      },
+      {
+        "Data": "00_a_room_1_A"
+      },
+      {
+        "Data": "00_a_room_2_A"
+      },
+      {
+        "Data": "00_a_room_3_A"
+      },
+      {
+        "Data": "00_a_room_5_A"
+      },
+      {
+        "Data": "00_a_room_hokensitu"
+      },
+      {
+        "Data": "00_a_room_kouchou"
+      },
+      {
+        "Data": "00_a_room_kouisitu"
+      },
+      {
+        "Data": "00_a_room_ongak"
+      },
+      {
+        "Data": "00_a_room_ponpusitu"
+      },
+      {
+        "Data": "00_a_room_pool"
+      },
+      {
+        "Data": "00_a_room_rika"
+      },
+      {
+        "Data": "00_a_room_shokuinsits"
+      },
+      {
+        "Data": "00_a_room_siryousitu"
+      },
+      {
+        "Data": "00_a_room_youmuinsitu"
+      },
+      {
+        "Data": "00_a_room_zukou"
+      },
+      {
+        "Data": "00_a_toilet_Bets_dansi"
+      },
+      {
+        "Data": "00_a_toilet_Bets_jyosi"
+      },
+      {
+        "Data": "00_a_toilet_Honka_dansi"
+      },
+      {
+        "Data": "00_a_toilet_Honka_jyosi"
+      },
+      {
+        "Data": "00_staff_00a"
+      },
+      {
+        "Data": "00_staff_00b"
+      },
+      {
+        "Data": "00_staff_01a"
+      },
+      {
+        "Data": "00_staff_01b"
+      },
+      {
+        "Data": "00_staff_02a"
+      },
+      {
+        "Data": "00_staff_02b"
+      },
+      {
+        "Data": "00_staff_03a"
+      },
+      {
+        "Data": "00_staff_03b"
+      },
+      {
+        "Data": "00_staff_04a"
+      },
+      {
+        "Data": "00_staff_04b"
+      },
+      {
+        "Data": "face_waku"
+      },
+      {
+        "Data": "mission01a"
+      },
+      {
+        "Data": "mission01b"
+      },
+      {
+        "Data": "mission02a"
+      },
+      {
+        "Data": "mission02b"
+      },
+      {
+        "Data": "TextEFF01"
+      },
+      {
+        "Data": "TextEFF02"
+      },
+      {
+        "Data": "TextEFFC1_01"
+      },
+      {
+        "Data": "TextEFFC1_02"
+      },
+      {
+        "Data": "TextEFFC1_03"
+      },
+      {
+        "Data": "TextEFFC1_04"
+      },
+      {
+        "Data": "TextEFFC1_05"
+      },
+      {
+        "Data": "TextEFFC3_01"
+      },
+      {
+        "Data": "TextEFFC3_02"
+      },
+      {
+        "Data": "TextEFFC3_03"
+      },
+      {
+        "Data": "TextEFFC3_04"
+      },
+      {
+        "Data": "TextEFFC3_05"
+      },
+      {
+        "Data": "TextEFFC4_01"
+      },
+      {
+        "Data": "TextEFFC4_02"
+      },
+      {
+        "Data": "TextEFFC4_03"
+      },
+      {
+        "Data": "TextEFFC4_04"
+      },
+      {
+        "Data": "TextEFFC4_05"
+      },
+      {
+        "Data": "TextEFFC5_01"
+      },
+      {
+        "Data": "TextEFFC5_02"
+      },
+      {
+        "Data": "TextEFFC5_03"
+      },
+      {
+        "Data": "TextEFFC5_04"
+      },
+      {
+        "Data": "TextEFFC5_05"
+      },
+      {
+        "Data": "TextEFFC5_06"
+      },
+      {
+        "Data": "TextEFFC5_07"
+      },
+      {
+        "Data": "TextEFFC5_08"
+      },
+      {
+        "Data": "TextEFFCE_01"
+      },
+      {
+        "Data": "mission01a"
+      },
+      {
+        "Data": "subtitle_ex030"
+      },
+      {
+        "Data": "subtitle_ex031"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

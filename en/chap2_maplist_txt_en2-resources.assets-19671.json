@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "chap2_maplist_txt_en2",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "オープニング00\r",
+        "Type": 0
+      },
+      {
+        "Data": "体育倉庫\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＯＰトイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "チャプター表示\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＯＰ廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＯＰ教室\r",
+        "Type": 0
+      },
+      {
+        "Data": "１のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "２のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "３のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "５のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "４のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "保健室\r",
+        "Type": 0
+      },
+      {
+        "Data": "トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下１Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "廊下３Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "釘抜き部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "玄関\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＥＤ前絶叫\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＥＤ前３のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

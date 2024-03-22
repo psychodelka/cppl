@@ -1,0 +1,526 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 161
+  },
+  "m_Name": "chap1_maplist_dat_en2",
+  "cpMapDefaultData": {
+    "Array": [
+      {
+        "Name": "オープニング00",
+        "MapNo": 0,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_00_00.bmp",
+            "chap1_map_00_01.bmp",
+            "chap1_map_00_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_00_attr.dat\r"
+      },
+      {
+        "Name": "オープニング01",
+        "MapNo": 1,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_01_00.bmp",
+            "chap1_map_01_01.bmp",
+            "chap1_map_01_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_01_attr.dat\r"
+      },
+      {
+        "Name": "オープニング02",
+        "MapNo": 2,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_02_00.bmp",
+            "chap1_map_02_01.bmp",
+            "chap1_map_02_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_02_attr.dat\r"
+      },
+      {
+        "Name": "オープニング03",
+        "MapNo": 3,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_03_00.bmp",
+            "chap1_map_03_01.bmp",
+            "chap1_map_03_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_03_attr.dat\r"
+      },
+      {
+        "Name": "オープニング04",
+        "MapNo": 4,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_04_00.bmp",
+            "chap1_map_04_01.bmp",
+            "chap1_map_04_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_04_attr.dat\r"
+      },
+      {
+        "Name": "オープニング",
+        "MapNo": 5,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_05_00.bmp",
+            "chap1_map_05_01.bmp",
+            "chap1_map_05_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_05_attr.dat\r"
+      },
+      {
+        "Name": "新校舎",
+        "MapNo": 6,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_06_00.bmp",
+            "chap1_map_06_01.bmp",
+            "chap1_map_06_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_06_attr.dat\r"
+      },
+      {
+        "Name": "新校舎02",
+        "MapNo": 7,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_07_00.bmp",
+            "chap1_map_07_01.bmp",
+            "chap1_map_07_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_07_attr.dat\r"
+      },
+      {
+        "Name": "新校舎03",
+        "MapNo": 8,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_08_00.bmp",
+            "chap1_map_08_01.bmp",
+            "chap1_map_08_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_08_attr.dat\r"
+      },
+      {
+        "Name": "新校舎壊れ１",
+        "MapNo": 9,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_09_00.bmp",
+            "chap1_map_09_01.bmp",
+            "chap1_map_09_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_09_attr.dat\r"
+      },
+      {
+        "Name": "新校舎壊れ２",
+        "MapNo": 10,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_10_00.bmp",
+            "chap1_map_10_01.bmp",
+            "chap1_map_10_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_10_attr.dat\r"
+      },
+      {
+        "Name": "新校舎壊れ３",
+        "MapNo": 11,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_11_00.bmp",
+            "chap1_map_11_01.bmp",
+            "chap1_map_11_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_11_attr.dat\r"
+      },
+      {
+        "Name": "新校舎壊れ４",
+        "MapNo": 12,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_12_00.bmp",
+            "chap1_map_12_01.bmp",
+            "chap1_map_12_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_12_attr.dat\r"
+      },
+      {
+        "Name": "新校舎壊れ５",
+        "MapNo": 13,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_13_00.bmp",
+            "chap1_map_13_01.bmp",
+            "chap1_map_13_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_13_attr.dat\r"
+      },
+      {
+        "Name": "黒",
+        "MapNo": 14,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_14_00.bmp",
+            "chap1_map_14_01.bmp",
+            "chap1_map_14_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_14_attr.dat\r"
+      },
+      {
+        "Name": "教室01",
+        "MapNo": 15,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_15_00.bmp",
+            "chap1_map_15_01.bmp",
+            "chap1_map_15_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_15_attr.dat\r"
+      },
+      {
+        "Name": "教室02",
+        "MapNo": 16,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_16_00.bmp",
+            "chap1_map_16_01.bmp",
+            "chap1_map_16_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_16_attr.dat\r"
+      },
+      {
+        "Name": "キャラ紹介",
+        "MapNo": 17,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_17_00.bmp",
+            "chap1_map_17_01.bmp",
+            "chap1_map_17_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_17_attr.dat\r"
+      },
+      {
+        "Name": "１のＡ",
+        "MapNo": 18,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_18_00.bmp",
+            "chap1_map_18_01.bmp",
+            "chap1_map_18_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_18_attr.dat\r"
+      },
+      {
+        "Name": "２のＡ",
+        "MapNo": 19,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_19_00.bmp",
+            "chap1_map_19_01.bmp",
+            "chap1_map_19_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_19_attr.dat\r"
+      },
+      {
+        "Name": "３のＡ",
+        "MapNo": 20,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_20_00.bmp",
+            "chap1_map_20_01.bmp",
+            "chap1_map_20_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_20_attr.dat\r"
+      },
+      {
+        "Name": "５のＡ",
+        "MapNo": 21,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_21_00.bmp",
+            "chap1_map_21_01.bmp",
+            "chap1_map_21_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_21_attr.dat\r"
+      },
+      {
+        "Name": "保健室",
+        "MapNo": 22,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_22_00.bmp",
+            "chap1_map_22_01.bmp",
+            "chap1_map_22_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_22_attr.dat\r"
+      },
+      {
+        "Name": "トイレ",
+        "MapNo": 23,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_23_00.bmp",
+            "chap1_map_23_01.bmp",
+            "chap1_map_23_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_23_attr.dat\r"
+      },
+      {
+        "Name": "廊下01",
+        "MapNo": 24,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_24_00.bmp",
+            "chap1_map_24_01.bmp",
+            "chap1_map_24_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_24_attr.dat\r"
+      },
+      {
+        "Name": "廊下１Ｆ",
+        "MapNo": 25,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_25_00.bmp",
+            "chap1_map_25_01.bmp",
+            "chap1_map_25_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_25_attr.dat\r"
+      },
+      {
+        "Name": "廊下２Ｆ",
+        "MapNo": 26,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_26_00.bmp",
+            "chap1_map_26_01.bmp",
+            "chap1_map_26_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_26_attr.dat\r"
+      },
+      {
+        "Name": "廊下３Ｆ",
+        "MapNo": 27,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_27_00.bmp",
+            "chap1_map_27_01.bmp",
+            "chap1_map_27_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_27_attr.dat\r"
+      },
+      {
+        "Name": "おどり場",
+        "MapNo": 28,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_28_00.bmp",
+            "chap1_map_28_01.bmp",
+            "chap1_map_28_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_28_attr.dat\r"
+      },
+      {
+        "Name": "廊下２Ｆ（最後の地震後）",
+        "MapNo": 29,
+        "DarkEffect": 1,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "chap1_map_29_00.bmp",
+            "chap1_map_29_01.bmp",
+            "chap1_map_29_02.bmp"
+          ]
+        },
+        "MapAttr": "chap1_map_29_attr.dat\r"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "chap4_maplist_txt_en2",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "オープニング\r",
+        "Type": 0
+      },
+      {
+        "Data": "ＯＰ廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "Chapter4\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1廊下３Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1廊下１Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1保健室\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap1５のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "用務員室\r",
+        "Type": 0
+      },
+      {
+        "Data": "職員室\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館トイレ前２F\r",
+        "Type": 0
+      },
+      {
+        "Data": "別館女子トイレ\r",
+        "Type": 0
+      },
+      {
+        "Data": "渡り廊下\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2廊下１Ｆ（長\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2廊下２Ｆ\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2保健室\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2おどり場\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2玄関\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2１のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "chap2２のＡ\r",
+        "Type": 0
+      },
+      {
+        "Data": "釘抜き部屋\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎\r",
+        "Type": 0
+      },
+      {
+        "Data": "新校舎（暗黒表示）\r",
+        "Type": 0
+      },
+      {
+        "Data": "殺害現場\r",
+        "Type": 0
+      },
+      {
+        "Data": "プール（水なし）\r",
+        "Type": 0
+      },
+      {
+        "Data": "プール（水あり）\r",
+        "Type": 0
+      },
+      {
+        "Data": "ポンプ室\r",
+        "Type": 0
+      },
+      {
+        "Data": "更衣室\r",
+        "Type": 0
+      },
+      {
+        "Data": "風呂場\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "BGMlist_txt_jp",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "COP-SE039_TV_noize_Small"
+      },
+      {
+        "Data": "CORP-PC-001"
+      },
+      {
+        "Data": "CORP-PC-003"
+      },
+      {
+        "Data": "CORP-PC-004"
+      },
+      {
+        "Data": "CORP-PC-005"
+      },
+      {
+        "Data": "CORP-PC-006"
+      },
+      {
+        "Data": "CORP-PC-007"
+      },
+      {
+        "Data": "CORP-PC-008"
+      },
+      {
+        "Data": "CORP-PC-009"
+      },
+      {
+        "Data": "CORP-PC-010"
+      },
+      {
+        "Data": "CORP-PC-011"
+      },
+      {
+        "Data": "CORP-PC-011-PSP2"
+      },
+      {
+        "Data": "CORP-PC-012"
+      },
+      {
+        "Data": "CORP-PC-012-CP3"
+      },
+      {
+        "Data": "CORP-PC-013"
+      },
+      {
+        "Data": "CORP-PC-013-1"
+      },
+      {
+        "Data": "CORP-PC-014"
+      },
+      {
+        "Data": "CORP-PC-015"
+      },
+      {
+        "Data": "CORP-PC-016"
+      },
+      {
+        "Data": "CORP-PC-017"
+      },
+      {
+        "Data": "CORP-PC-018"
+      },
+      {
+        "Data": "CORP-PC-019"
+      },
+      {
+        "Data": "CORP-PC-020"
+      },
+      {
+        "Data": "CORP-PC-022"
+      },
+      {
+        "Data": "CORP-PC-023"
+      },
+      {
+        "Data": "CORP-PC-024"
+      },
+      {
+        "Data": "CORP-PC-025"
+      },
+      {
+        "Data": "CORP-PC-026"
+      },
+      {
+        "Data": "CORP-PC-028"
+      },
+      {
+        "Data": "CORP-PC-029"
+      },
+      {
+        "Data": "CORP-PC-029-1"
+      },
+      {
+        "Data": "CORP-PC-033"
+      },
+      {
+        "Data": "CORP-PC-034"
+      },
+      {
+        "Data": "CORP-PC-035"
+      },
+      {
+        "Data": "CORP-PC-036-P"
+      },
+      {
+        "Data": "CORP-PC-036-T-sub"
+      },
+      {
+        "Data": "CORP-PC-038"
+      },
+      {
+        "Data": "CORP-PC-039"
+      },
+      {
+        "Data": "CORP-PC-041"
+      },
+      {
+        "Data": "CORP-PC-042"
+      },
+      {
+        "Data": "CORP-PC-043"
+      },
+      {
+        "Data": "CORP-PC-044"
+      },
+      {
+        "Data": "CORP-PC-045"
+      },
+      {
+        "Data": "CORP-PC-046"
+      },
+      {
+        "Data": "CORP-PC-047"
+      },
+      {
+        "Data": "CORP-PC-048"
+      },
+      {
+        "Data": "CORP-PC-049"
+      },
+      {
+        "Data": "CORP-PC-050-EX"
+      },
+      {
+        "Data": "CORP-PC-051-EX"
+      },
+      {
+        "Data": "CORP-PC-052"
+      },
+      {
+        "Data": "CORP-PC-053"
+      },
+      {
+        "Data": "CORP-PC-054"
+      },
+      {
+        "Data": "CORP-PC-055-PSP"
+      },
+      {
+        "Data": "CORP-PC-056"
+      },
+      {
+        "Data": "CORP-PC-057"
+      },
+      {
+        "Data": "CORP-PC-058-PSP"
+      },
+      {
+        "Data": "CORP-PC-059-PSP"
+      },
+      {
+        "Data": "CORP-PC-060"
+      },
+      {
+        "Data": "CORP-PC-061-01"
+      },
+      {
+        "Data": "CORP-PC-061-02"
+      },
+      {
+        "Data": "CORP-PC-061-03"
+      },
+      {
+        "Data": "CORP-PC-062-PSP"
+      },
+      {
+        "Data": "CORP-PC-063-PSP"
+      },
+      {
+        "Data": "CORP-PC-064"
+      },
+      {
+        "Data": "CORP-PC-065"
+      },
+      {
+        "Data": "CORP-PC-101"
+      },
+      {
+        "Data": "CORP-PC-CP3-OPNING"
+      },
+      {
+        "Data": "CORP-PC-CP4-ENDING"
+      },
+      {
+        "Data": "CORP-PC-CP4-OPNING"
+      },
+      {
+        "Data": "CORP-PC-GAMEOVER"
+      },
+      {
+        "Data": "CORP-PC-OMAKE001"
+      },
+      {
+        "Data": "CORP-PC-OP01"
+      },
+      {
+        "Data": "CORP-PC-OP02"
+      },
+      {
+        "Data": "CORP-PC-OP03"
+      },
+      {
+        "Data": "CORP-PC-OP04"
+      },
+      {
+        "Data": "CORP-PC-OP05"
+      },
+      {
+        "Data": "CORP-PC-POOL01"
+      },
+      {
+        "Data": "CORP-PSP-Catastrophe"
+      },
+      {
+        "Data": "GAYA_0003"
+      },
+      {
+        "Data": "GAYA_0013"
+      },
+      {
+        "Data": "GAYA_0016"
+      },
+      {
+        "Data": "TV_noize"
+      },
+      {
+        "Data": "X_Confutatis_Short_FinalMix"
+      },
+      {
+        "Data": "X_CORP-PC-011-3DS"
+      },
+      {
+        "Data": "X_CORP-PC-070-3DS"
+      },
+      {
+        "Data": "zukousitstalk"
+      },
+      {
+        "Data": "CORP-PC-OP06"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

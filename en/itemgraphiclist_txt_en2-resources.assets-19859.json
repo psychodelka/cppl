@@ -1,0 +1,148 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "itemgraphiclist_txt_en2",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "01_boroita"
+      },
+      {
+        "Data": "02_3-Akagi"
+      },
+      {
+        "Data": "03_hokensitukagi"
+      },
+      {
+        "Data": "04_matchbako"
+      },
+      {
+        "Data": "05_Alcoholbin"
+      },
+      {
+        "Data": "06_yogoretabaketu"
+      },
+      {
+        "Data": "07_powerstone"
+      },
+      {
+        "Data": "08_kuginuki"
+      },
+      {
+        "Data": "09_hannin_no_zange"
+      },
+      {
+        "Data": "10_yuka_no_omamori"
+      },
+      {
+        "Data": "11_bekkan_no_kagi"
+      },
+      {
+        "Data": "12_mayoke_no_kutu"
+      },
+      {
+        "Data": "13_hamayaburi_no_suisyou"
+      },
+      {
+        "Data": "14_DVtape(1)"
+      },
+      {
+        "Data": "15_naomi_keitai"
+      },
+      {
+        "Data": "16_seiko_keitai"
+      },
+      {
+        "Data": "17_asabukuro"
+      },
+      {
+        "Data": "18_youmuinsitu_kagi"
+      },
+      {
+        "Data": "19_tiisana_kagi"
+      },
+      {
+        "Data": "20_suiatutyouseisitu_kagi"
+      },
+      {
+        "Data": "21_Valvehandol"
+      },
+      {
+        "Data": "22_dairiseki_no_tyoukoku"
+      },
+      {
+        "Data": "23_naomi_no_kakuseisyou"
+      },
+      {
+        "Data": "24_yuka_no_kutu"
+      },
+      {
+        "Data": "25_naho_no_tetyou"
+      },
+      {
+        "Data": "26_morishige_no_keitai"
+      },
+      {
+        "Data": "27_kibiki_no_miniDVtape(2)"
+      },
+      {
+        "Data": "28_timamire_no_DVtape"
+      },
+      {
+        "Data": "29_akago_no_zou"
+      },
+      {
+        "Data": "30_yoshie_no_nikki"
+      },
+      {
+        "Data": "31_kuroneko_no_nuigurumi"
+      },
+      {
+        "Data": "32_netuke_no_tuita_tiisana_kagi"
+      },
+      {
+        "Data": "33_asabukuro(satiko)"
+      },
+      {
+        "Data": "34_tihaya_no_porch"
+      },
+      {
+        "Data": "35_hosigata_sunglasses"
+      },
+      {
+        "Data": "36_Elegance_na_megane"
+      },
+      {
+        "Data": "37_softbou"
+      },
+      {
+        "Data": "38_shinbun_kiji"
+      },
+      {
+        "Data": "39_bunkajingyo_atama"
+      },
+      {
+        "Data": "40_bunkajingyo_karada"
+      },
+      {
+        "Data": "41_morishige_keitai_2"
+      },
+      {
+        "Data": "42_ryouka_no_kakuseisyou"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

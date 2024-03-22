@@ -1,0 +1,502 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 265
+  },
+  "m_Name": "endinglist_txt_jp",
+  "cpEndingData": {
+    "Array": [
+      {
+        "Index": 0,
+        "Capter": 1,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "クリアエンド",
+        "Info": "首を吊って死んだ世以子。残された直美の運命は？"
+      },
+      {
+        "Index": 1,
+        "Capter": 1,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "バッドエンド１",
+        "Info": "霊に操られ、自らハサミで舌を切断して死亡。"
+      },
+      {
+        "Index": 2,
+        "Capter": 1,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "バッドエンド２",
+        "Info": "黒い霧のような霊に襲われ死亡。"
+      },
+      {
+        "Index": 3,
+        "Capter": 1,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "バッドエンド３",
+        "Info": "犠牲者の手記を最後まで読んだことにより黒化して死亡。"
+      },
+      {
+        "Index": 4,
+        "Capter": 2,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "クリアエンド",
+        "Info": "繭の凄惨な死。犯人の懺悔は偽りか？"
+      },
+      {
+        "Index": 5,
+        "Capter": 2,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "バッドエンド１",
+        "Info": "生き埋めにされて死亡。"
+      },
+      {
+        "Index": 6,
+        "Capter": 2,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "バッドエンド２",
+        "Info": "ワイヤートラップにより、体を切断されて死亡。"
+      },
+      {
+        "Index": 7,
+        "Capter": 2,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "バッドエンド３",
+        "Info": "あゆみに階段から突き落とされて死亡。"
+      },
+      {
+        "Index": 8,
+        "Capter": 2,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "バッドエンド４",
+        "Info": "犠牲者の手記を最後まで読んでしまい、あゆみを殺害。"
+      },
+      {
+        "Index": 9,
+        "Capter": 3,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "クリアエンド",
+        "Info": "由香とはぐれた哲志の前に現れた冴之木七星。彼女は何者か？"
+      },
+      {
+        "Index": 10,
+        "Capter": 3,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "バッドエンド１",
+        "Info": "霊に呪われ、２階から落下し死亡。"
+      },
+      {
+        "Index": 11,
+        "Capter": 3,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "バッドエンド２",
+        "Info": "霊に目をえぐられ死亡。"
+      },
+      {
+        "Index": 12,
+        "Capter": 3,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "バッドエンド３",
+        "Info": "犠牲者の手記を読むうちに、心を蝕まれ死亡。"
+      },
+      {
+        "Index": 13,
+        "Capter": 3,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "バッドエンド４",
+        "Info": "毒により体力を奪われて死亡。"
+      },
+      {
+        "Index": 14,
+        "Capter": 4,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "クリアエンド",
+        "Info": "現世に戻った良樹とあゆみだったが…"
+      },
+      {
+        "Index": 15,
+        "Capter": 4,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "バッドエンド１",
+        "Info": "子供の霊に襲われて死亡。"
+      },
+      {
+        "Index": 16,
+        "Capter": 4,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "バッドエンド２",
+        "Info": "ハサミで胸を突かれ、失血死。"
+      },
+      {
+        "Index": 17,
+        "Capter": 4,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "バッドエンド３",
+        "Info": "排水溝に吸い込まれて死亡。"
+      },
+      {
+        "Index": 18,
+        "Capter": 4,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "バッドエンド４",
+        "Info": "よどんだ水の中で溺死。"
+      },
+      {
+        "Index": 19,
+        "Capter": 4,
+        "SubIndex": 5,
+        "DlFlag": 0,
+        "Label": "ED No.6",
+        "Name": "エクストラエンド",
+        "Info": "生徒のために…結衣の最後。"
+      },
+      {
+        "Index": 20,
+        "Capter": 5,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "トゥルーエンド",
+        "Info": "悲しみの終焉。"
+      },
+      {
+        "Index": 21,
+        "Capter": 5,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "エクストラエンド",
+        "Info": "由香と直美がいない世界に戻る。"
+      },
+      {
+        "Index": 22,
+        "Capter": 5,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "バッドエンド２",
+        "Info": "人体模型に襲われて焼死。"
+      },
+      {
+        "Index": 23,
+        "Capter": 5,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "バッドエンド３",
+        "Info": "一人だけ生き残り逆打ちができずに脱出できなくなる。"
+      },
+      {
+        "Index": 24,
+        "Capter": 5,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "バッドエンド４",
+        "Info": "狂った直美に襲われる。"
+      },
+      {
+        "Index": 25,
+        "Capter": 5,
+        "SubIndex": 5,
+        "DlFlag": 0,
+        "Label": "ED No.6",
+        "Name": "バッドエンド５",
+        "Info": "黒化したあゆみに襲われる。"
+      },
+      {
+        "Index": 26,
+        "Capter": 5,
+        "SubIndex": 6,
+        "DlFlag": 0,
+        "Label": "ED No.7",
+        "Name": "バッドエンド６",
+        "Info": "脱出失敗。雪により、永遠に天神小から脱出できなくなる。"
+      },
+      {
+        "Index": 27,
+        "Capter": 5,
+        "SubIndex": 7,
+        "DlFlag": 0,
+        "Label": "ED No.8",
+        "Name": "バッドエンド７",
+        "Info": "永遠に天神小の悪夢を繰り返す。"
+      },
+      {
+        "Index": 28,
+        "Capter": 5,
+        "SubIndex": 8,
+        "DlFlag": 0,
+        "Label": "ED No.9",
+        "Name": "バッドエンド８",
+        "Info": "大量の虫が溜まったプールに沈み死亡。"
+      },
+      {
+        "Index": 29,
+        "Capter": 6,
+        "SubIndex": 0,
+        "DlFlag": 0,
+        "Label": "ED No.1",
+        "Name": "エクストラ１",
+        "Info": "クリアエンド。還るべき場所への手助けをした。"
+      },
+      {
+        "Index": 30,
+        "Capter": 6,
+        "SubIndex": 1,
+        "DlFlag": 0,
+        "Label": "ED No.2",
+        "Name": "エクストラ１",
+        "Info": "バッドエンド１。人魂になぶり殺しにされる。"
+      },
+      {
+        "Index": 31,
+        "Capter": 6,
+        "SubIndex": 2,
+        "DlFlag": 0,
+        "Label": "ED No.3",
+        "Name": "エクストラ１",
+        "Info": "バッドエンド２。死ぬまで校舎をさ迷う。"
+      },
+      {
+        "Index": 32,
+        "Capter": 6,
+        "SubIndex": 3,
+        "DlFlag": 0,
+        "Label": "ED No.4",
+        "Name": "エクストラ２",
+        "Info": "クリアエンド。また会うかも知れない相手。"
+      },
+      {
+        "Index": 33,
+        "Capter": 6,
+        "SubIndex": 4,
+        "DlFlag": 0,
+        "Label": "ED No.5",
+        "Name": "エクストラ３",
+        "Info": "クリアエンド。姉は応援している。"
+      },
+      {
+        "Index": 34,
+        "Capter": 6,
+        "SubIndex": 5,
+        "DlFlag": 0,
+        "Label": "ED No.6",
+        "Name": "エクストラ４",
+        "Info": "クリアエンド。巨乳好きの性癖。"
+      },
+      {
+        "Index": 35,
+        "Capter": 6,
+        "SubIndex": 6,
+        "DlFlag": 0,
+        "Label": "ED No.7",
+        "Name": "エクストラ５",
+        "Info": "クリアエンド。ガールズトークのひと時。"
+      },
+      {
+        "Index": 36,
+        "Capter": 6,
+        "SubIndex": 7,
+        "DlFlag": 0,
+        "Label": "ED No.8",
+        "Name": "エクストラ６",
+        "Info": "クリアエンド。気を遣われるのが嫌いな委員長。"
+      },
+      {
+        "Index": 37,
+        "Capter": 6,
+        "SubIndex": 8,
+        "DlFlag": 0,
+        "Label": "ED No.9",
+        "Name": "エクストラ７",
+        "Info": "クリアエンド。『逆打ち』の方法を試しに行く。"
+      },
+      {
+        "Index": 38,
+        "Capter": 6,
+        "SubIndex": 9,
+        "DlFlag": 0,
+        "Label": "ED No.10",
+        "Name": "エクストラ８",
+        "Info": "クリアエンド。ゴホウビヲモラウタメニ。"
+      },
+      {
+        "Index": 39,
+        "Capter": 6,
+        "SubIndex": 10,
+        "DlFlag": 0,
+        "Label": "ED No.11",
+        "Name": "エクストラ９",
+        "Info": "クリアエンド。男同士で腕組んで帰宅。"
+      },
+      {
+        "Index": 40,
+        "Capter": 6,
+        "SubIndex": 11,
+        "DlFlag": 0,
+        "Label": "ED No.12",
+        "Name": "エクストラ１０",
+        "Info": "クリアエンド。『香りのビーズ』のヒミツの効果。"
+      },
+      {
+        "Index": 41,
+        "Capter": 6,
+        "SubIndex": 12,
+        "DlFlag": 0,
+        "Label": "ED No.13",
+        "Name": "エクストラ１１",
+        "Info": "クリアエンド。辛い状況でも、諦めずに探し求める。"
+      },
+      {
+        "Index": 42,
+        "Capter": 6,
+        "SubIndex": 13,
+        "DlFlag": 0,
+        "Label": "ED No.14",
+        "Name": "エクストラ１２",
+        "Info": "クリアエンド。世紀の映像を撮り、次の人に繋ぐ。"
+      },
+      {
+        "Index": 43,
+        "Capter": 6,
+        "SubIndex": 14,
+        "DlFlag": 0,
+        "Label": "ED No.15",
+        "Name": "エクストラ１２",
+        "Info": "バッドエンド１。出口に頭からつっこみ、首を骨折して死亡。"
+      },
+      {
+        "Index": 44,
+        "Capter": 6,
+        "SubIndex": 15,
+        "DlFlag": 0,
+        "Label": "ED No.16",
+        "Name": "エクストラ１２",
+        "Info": "バッドエンド２。霊に舌と目を引き抜かれて死亡。"
+      },
+      {
+        "Index": 45,
+        "Capter": 6,
+        "SubIndex": 16,
+        "DlFlag": 0,
+        "Label": "ED No.17",
+        "Name": "エクストラ１２",
+        "Info": "バッドエンド３。霊に舌と内臓を引き抜かれて死亡。"
+      },
+      {
+        "Index": 46,
+        "Capter": 6,
+        "SubIndex": 17,
+        "DlFlag": 0,
+        "Label": "ED No.18",
+        "Name": "エクストラ１２",
+        "Info": "バッドエンド４。ヨシカズにハンマーで殴打され死亡。"
+      },
+      {
+        "Index": 47,
+        "Capter": 6,
+        "SubIndex": 18,
+        "DlFlag": 1,
+        "Label": "ED No.19",
+        "Name": "エクストラ１３",
+        "Info": "クリアエンド。救世主のゲーム機に助けられる。"
+      },
+      {
+        "Index": 48,
+        "Capter": 6,
+        "SubIndex": 19,
+        "DlFlag": 1,
+        "Label": "ED No.20",
+        "Name": "エクストラ１３",
+        "Info": "バッドエンド１。人魂たちの怒りを買い、襲われて死亡。"
+      },
+      {
+        "Index": 49,
+        "Capter": 6,
+        "SubIndex": 20,
+        "DlFlag": 1,
+        "Label": "ED No.21",
+        "Name": "エクストラ１４",
+        "Info": "クリアエンド。校舎を彷徨い続ける人殺し。"
+      },
+      {
+        "Index": 50,
+        "Capter": 6,
+        "SubIndex": 21,
+        "DlFlag": 1,
+        "Label": "ED No.22",
+        "Name": "エクストラ１５",
+        "Info": "クリアエンド。絶対に生き残ってくれという想い。"
+      },
+      {
+        "Index": 51,
+        "Capter": 6,
+        "SubIndex": 22,
+        "DlFlag": 1,
+        "Label": "ED No.23",
+        "Name": "エクストラ１５",
+        "Info": "バッドエンド１。人魂たちの怒りを買い、襲われて死亡。"
+      },
+      {
+        "Index": 52,
+        "Capter": 6,
+        "SubIndex": 23,
+        "DlFlag": 1,
+        "Label": "ED No.24",
+        "Name": "エクストラ１５",
+        "Info": "バッドエンド２。人魂たちの怒りを買い、襲われて死亡。"
+      },
+      {
+        "Index": 53,
+        "Capter": 6,
+        "SubIndex": 24,
+        "DlFlag": 1,
+        "Label": "ED No.25",
+        "Name": "エクストラ１６",
+        "Info": "クリアエンド。間違いなく伝説の生存者と出会った。"
+      }
+    ]
+  }
+}

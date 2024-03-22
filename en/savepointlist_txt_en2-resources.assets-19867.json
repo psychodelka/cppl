@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "savepointlist_txt_en2",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "Classroom 2-A"
+      },
+      {
+        "Data": "Infirmary"
+      },
+      {
+        "Data": "West Building - South"
+      },
+      {
+        "Data": "Infirmary Entrance"
+      },
+      {
+        "Data": "Main Building - South"
+      },
+      {
+        "Data": "Classroom 2-A"
+      },
+      {
+        "Data": "Second Wing 1F - Entranceway"
+      },
+      {
+        "Data": "Main Building - West"
+      },
+      {
+        "Data": "Classroom 2-A"
+      },
+      {
+        "Data": "Old Building 1F - Northwest"
+      },
+      {
+        "Data": "Old Building 2F - Science Lab"
+      },
+      {
+        "Data": "Old Building 2F - Infirmary"
+      },
+      {
+        "Data": "Second Wing - West"
+      },
+      {
+        "Data": "Abandoned Bomb Shelter 1"
+      },
+      {
+        "Data": "Abandoned Bomb Shelter 2"
+      },
+      {
+        "Data": "Abandoned Bomb Shelter 3"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

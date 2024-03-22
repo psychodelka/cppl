@@ -1,0 +1,360 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "all_maplist_txt_en2",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "なし",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing 1F - Entranceway",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing 1F - East Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing 1F - West Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing 2F - East Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing 2F - West Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Abandoned Bomb Shelter",
+        "Type": 0
+      },
+      {
+        "Data": "Dissection Room",
+        "Type": 0
+      },
+      {
+        "Data": "???",
+        "Type": 0
+      },
+      {
+        "Data": "Murder Scene",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 1F - Entranceway",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 1F - East Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 1F - West Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 2F - Center Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 2F - East Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 2F - West Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 3F - East Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building 3F - West Hall",
+        "Type": 0
+      },
+      {
+        "Data": "Classroom 1-A",
+        "Type": 0
+      },
+      {
+        "Data": "Classroom 2-A",
+        "Type": 0
+      },
+      {
+        "Data": "Classroom 3-A",
+        "Type": 0
+      },
+      {
+        "Data": "Classroom 5-A",
+        "Type": 0
+      },
+      {
+        "Data": "Infirmary",
+        "Type": 0
+      },
+      {
+        "Data": "Principal's Office",
+        "Type": 0
+      },
+      {
+        "Data": "Locker Room",
+        "Type": 0
+      },
+      {
+        "Data": "Music Room - Suicide Site",
+        "Type": 0
+      },
+      {
+        "Data": "Pump Room",
+        "Type": 0
+      },
+      {
+        "Data": "Poolside",
+        "Type": 0
+      },
+      {
+        "Data": "Science Lab",
+        "Type": 0
+      },
+      {
+        "Data": "Staff Room",
+        "Type": 0
+      },
+      {
+        "Data": "Reference Room",
+        "Type": 0
+      },
+      {
+        "Data": "Custodian's Closet",
+        "Type": 0
+      },
+      {
+        "Data": "Cursed Art Room",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing - Boys' Lavatory",
+        "Type": 0
+      },
+      {
+        "Data": "Second Wing - Girls' Lavatory",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building - Boys' Lavatory",
+        "Type": 0
+      },
+      {
+        "Data": "Main Building - Girls' Lavatory",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_00a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_00b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_01a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_01b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_02a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_02b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_03a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_03b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_04a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_04b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "face_waku.tga",
+        "Type": 0
+      },
+      {
+        "Data": "mission01a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "<size=840>Find the gentleman's hat",
+        "Type": 0
+      },
+      {
+        "Data": "mission02a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "<size=840>Find the gentleman's glasses",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFF01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      },
+      {
+        "Data": "Please, wait...",
+        "Type": 0
+      },
+      {
+        "Data": "Seiko: My spirit will guide your path!",
+        "Type": 0
+      },
+      {
+        "Data": "Naomi: You're not dead, you know...",
+        "Type": 0
+      },
+      {
+        "Data": "Let's all go on a field trip together \nover summer vacation...",
+        "Type": 0
+      },
+      {
+        "Data": "Sachi... \nHave you come to find me?",
+        "Type": 0
+      },
+      {
+        "Data": "Chihaya... Nana... Please be okay... \nI'm sorry I'm so...useless",
+        "Type": 0
+      },
+      {
+        "Data": "Kaori... Kaori... \nI want to see you again...",
+        "Type": 0
+      },
+      {
+        "Data": "Let me out!",
+        "Type": 0
+      },
+      {
+        "Data": "Koito... Koito! Please, no...!",
+        "Type": 0
+      },
+      {
+        "Data": "Gihh it back...",
+        "Type": 0
+      },
+      {
+        "Data": "- It hurts... \n- Make it stop... \n- Oh God, my head!",
+        "Type": 0
+      },
+      {
+        "Data": "Mother...",
+        "Type": 0
+      },
+      {
+        "Data": "I'll kill you...",
+        "Type": 0
+      },
+      {
+        "Data": "We were killed by an educator...",
+        "Type": 0
+      },
+      {
+        "Data": "Mochida...!",
+        "Type": 0
+      },
+      {
+        "Data": "The scho-- The school day is now over. \nAny students still in the building...\n...may never go home again...",
+        "Type": 0
+      },
+      {
+        "Data": "I'm going to kill you... \nI'm going to kill you, Yuka! Hey!",
+        "Type": 0
+      },
+      {
+        "Data": "Yuukaa...?",
+        "Type": 0
+      },
+      {
+        "Data": "Be a good girl, Yuka, and come with me...",
+        "Type": 0
+      },
+      {
+        "Data": "Come out, come out wherever you are!",
+        "Type": 0
+      },
+      {
+        "Data": "This way... Hurry!",
+        "Type": 0
+      },
+      {
+        "Data": "She's the one at fault.",
+        "Type": 0
+      },
+      {
+        "Data": "She clearly overreacted to the situation!",
+        "Type": 0
+      },
+      {
+        "Data": "Naomi! Naomi!",
+        "Type": 0
+      },
+      {
+        "Data": "mission01a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "<size=1200><align=\"center\">After Effect...",
+        "Type": 0
+      },
+      {
+        "Data": "<size=1200><align=\"center\">Geranium",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

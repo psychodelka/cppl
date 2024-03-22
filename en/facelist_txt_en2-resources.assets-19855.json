@@ -1,0 +1,439 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "facelist_txt_en2",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "01_satosh_a"
+      },
+      {
+        "Data": "01_satosh_b"
+      },
+      {
+        "Data": "01_satosh_c"
+      },
+      {
+        "Data": "01_satosh_d"
+      },
+      {
+        "Data": "01_satosh_e"
+      },
+      {
+        "Data": "01_satosh_f"
+      },
+      {
+        "Data": "01_satosh_g"
+      },
+      {
+        "Data": "01_satosh_h"
+      },
+      {
+        "Data": "01_satosh_i"
+      },
+      {
+        "Data": "01_satosh_j"
+      },
+      {
+        "Data": "01_satosh_k"
+      },
+      {
+        "Data": "01_satosh_l"
+      },
+      {
+        "Data": "01_satosh_m"
+      },
+      {
+        "Data": "01_satosh_n"
+      },
+      {
+        "Data": "01_satosh_o"
+      },
+      {
+        "Data": "02_naomi_a"
+      },
+      {
+        "Data": "02_naomi_b"
+      },
+      {
+        "Data": "02_naomi_c"
+      },
+      {
+        "Data": "02_naomi_d"
+      },
+      {
+        "Data": "02_naomi_e"
+      },
+      {
+        "Data": "02_naomi_f"
+      },
+      {
+        "Data": "02_naomi_g"
+      },
+      {
+        "Data": "02_naomi_h"
+      },
+      {
+        "Data": "02_naomi_i"
+      },
+      {
+        "Data": "02_naomi_J"
+      },
+      {
+        "Data": "02_naomi_k"
+      },
+      {
+        "Data": "02_naomi_L"
+      },
+      {
+        "Data": "02_naomi_m"
+      },
+      {
+        "Data": "02_naomi_n"
+      },
+      {
+        "Data": "02_naomi_o"
+      },
+      {
+        "Data": "02_naomi_p"
+      },
+      {
+        "Data": "02_naomi_q"
+      },
+      {
+        "Data": "02_naomi_r"
+      },
+      {
+        "Data": "02_naomi_s"
+      },
+      {
+        "Data": "02_naomi_t"
+      },
+      {
+        "Data": "02_naomi_u"
+      },
+      {
+        "Data": "02_naomi_v"
+      },
+      {
+        "Data": "02_naomi_w"
+      },
+      {
+        "Data": "02_naomi_x"
+      },
+      {
+        "Data": "02_naomi_y"
+      },
+      {
+        "Data": "02_naomi_z"
+      },
+      {
+        "Data": "03_seiko_a"
+      },
+      {
+        "Data": "03_seiko_b"
+      },
+      {
+        "Data": "03_seiko_c"
+      },
+      {
+        "Data": "03_seiko_d"
+      },
+      {
+        "Data": "03_seiko_e"
+      },
+      {
+        "Data": "03_seiko_f"
+      },
+      {
+        "Data": "03_seiko_g"
+      },
+      {
+        "Data": "03_seiko_h"
+      },
+      {
+        "Data": "03_seiko_i"
+      },
+      {
+        "Data": "03_seiko_j"
+      },
+      {
+        "Data": "03_seiko_k"
+      },
+      {
+        "Data": "04_ayumi_a"
+      },
+      {
+        "Data": "04_ayumi_b"
+      },
+      {
+        "Data": "04_ayumi_c"
+      },
+      {
+        "Data": "04_ayumi_d"
+      },
+      {
+        "Data": "04_ayumi_e"
+      },
+      {
+        "Data": "04_ayumi_f"
+      },
+      {
+        "Data": "04_ayumi_g"
+      },
+      {
+        "Data": "04_ayumi_h"
+      },
+      {
+        "Data": "04_ayumi_i"
+      },
+      {
+        "Data": "04_ayumi_j"
+      },
+      {
+        "Data": "04_ayumi_k"
+      },
+      {
+        "Data": "04_ayumi_l"
+      },
+      {
+        "Data": "04_ayumi_m"
+      },
+      {
+        "Data": "04_ayumi_n"
+      },
+      {
+        "Data": "04_ayumi_o"
+      },
+      {
+        "Data": "05_yoshiki_a"
+      },
+      {
+        "Data": "05_yoshiki_b"
+      },
+      {
+        "Data": "05_yoshiki_c"
+      },
+      {
+        "Data": "05_yoshiki_d"
+      },
+      {
+        "Data": "05_yoshiki_e"
+      },
+      {
+        "Data": "05_yoshiki_f"
+      },
+      {
+        "Data": "05_yoshiki_g"
+      },
+      {
+        "Data": "05_yoshiki_h"
+      },
+      {
+        "Data": "06_yuka_a"
+      },
+      {
+        "Data": "06_yuka_b"
+      },
+      {
+        "Data": "06_yuka_c"
+      },
+      {
+        "Data": "06_yuka_d"
+      },
+      {
+        "Data": "06_yuka_e"
+      },
+      {
+        "Data": "06_yuka_f"
+      },
+      {
+        "Data": "06_yuka_g"
+      },
+      {
+        "Data": "06_yuka_h"
+      },
+      {
+        "Data": "06_yuka_i"
+      },
+      {
+        "Data": "06_yuka_J1"
+      },
+      {
+        "Data": "06_yuka_J2"
+      },
+      {
+        "Data": "06_yuka_k"
+      },
+      {
+        "Data": "06_yuka_l"
+      },
+      {
+        "Data": "06_yuka_m"
+      },
+      {
+        "Data": "06_yuka_n"
+      },
+      {
+        "Data": "06_yuka_o"
+      },
+      {
+        "Data": "06_yuka_p"
+      },
+      {
+        "Data": "06_yuka_q"
+      },
+      {
+        "Data": "06_yuka_r"
+      },
+      {
+        "Data": "06_yuka_s"
+      },
+      {
+        "Data": "07_yui_a"
+      },
+      {
+        "Data": "07_yui_b"
+      },
+      {
+        "Data": "07_yui_c"
+      },
+      {
+        "Data": "07_yui_d"
+      },
+      {
+        "Data": "07_yui_e"
+      },
+      {
+        "Data": "07_yui_f"
+      },
+      {
+        "Data": "07_yui_g"
+      },
+      {
+        "Data": "07_yui_h"
+      },
+      {
+        "Data": "07_yui_i"
+      },
+      {
+        "Data": "08_mayu_a"
+      },
+      {
+        "Data": "08_mayu_b"
+      },
+      {
+        "Data": "08_mayu_c"
+      },
+      {
+        "Data": "09_kizami_a"
+      },
+      {
+        "Data": "09_kizami_b"
+      },
+      {
+        "Data": "09_kizami_c"
+      },
+      {
+        "Data": "10_kurosaki_a"
+      },
+      {
+        "Data": "10_kurosaki_b"
+      },
+      {
+        "Data": "10_kurosaki_c"
+      },
+      {
+        "Data": "10_kurosaki_d"
+      },
+      {
+        "Data": "11_mayu_a"
+      },
+      {
+        "Data": "11_morishige_a"
+      },
+      {
+        "Data": "11_morishige_b"
+      },
+      {
+        "Data": "12_chihaya_a"
+      },
+      {
+        "Data": "14_nana_a"
+      },
+      {
+        "Data": "15_naru_a"
+      },
+      {
+        "Data": "16_taguchi_a"
+      },
+      {
+        "Data": "black"
+      },
+      {
+        "Data": "16_miku_01"
+      },
+      {
+        "Data": "16_miku_02"
+      },
+      {
+        "Data": "16_miku_03"
+      },
+      {
+        "Data": "16_miku_04"
+      },
+      {
+        "Data": "16_miku_05"
+      },
+      {
+        "Data": "16_miku_06"
+      },
+      {
+        "Data": "16_miku_07"
+      },
+      {
+        "Data": "16_miku_08"
+      },
+      {
+        "Data": "16_miku_09"
+      },
+      {
+        "Data": "16_miku_10"
+      },
+      {
+        "Data": "17_ryouka_01"
+      },
+      {
+        "Data": "17_ryouka_02"
+      },
+      {
+        "Data": "17_ryouka_03"
+      },
+      {
+        "Data": "17_ryouka_04"
+      },
+      {
+        "Data": "17_ryouka_05"
+      },
+      {
+        "Data": "17_ryouka_06"
+      },
+      {
+        "Data": "17_ryouka_07"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

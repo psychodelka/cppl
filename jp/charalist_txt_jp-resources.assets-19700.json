@@ -1,0 +1,934 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "charalist_txt_jp",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "00_new_eff1"
+      },
+      {
+        "Data": "01_satoshi"
+      },
+      {
+        "Data": "01_satoshi_etc1"
+      },
+      {
+        "Data": "01_satoshi_etc2"
+      },
+      {
+        "Data": "01_satoshi_etc3"
+      },
+      {
+        "Data": "01_satoshi_etc4"
+      },
+      {
+        "Data": "01_satoshi_etc4b"
+      },
+      {
+        "Data": "01_satoshi_etc5"
+      },
+      {
+        "Data": "01_satoshi_etc6"
+      },
+      {
+        "Data": "01_satoshi_etc7"
+      },
+      {
+        "Data": "01_satoshi_etc8"
+      },
+      {
+        "Data": "01_satoshi_etc9"
+      },
+      {
+        "Data": "01_satoshi_fall01"
+      },
+      {
+        "Data": "01_satoshi_fall02"
+      },
+      {
+        "Data": "01_satoshi_hashigo"
+      },
+      {
+        "Data": "01_satoshi_w"
+      },
+      {
+        "Data": "02_naomi"
+      },
+      {
+        "Data": "02_naomi_etc1"
+      },
+      {
+        "Data": "02_naomi_etc2"
+      },
+      {
+        "Data": "02_naomi_etc3"
+      },
+      {
+        "Data": "02_naomi_etc4"
+      },
+      {
+        "Data": "02_naomi_etc5"
+      },
+      {
+        "Data": "02_naomi_etc6"
+      },
+      {
+        "Data": "02_naomi_etc7"
+      },
+      {
+        "Data": "03_seiko"
+      },
+      {
+        "Data": "03_seiko_etc1"
+      },
+      {
+        "Data": "03_seiko_etc2"
+      },
+      {
+        "Data": "03_seiko_etc3"
+      },
+      {
+        "Data": "03_seiko_etc4"
+      },
+      {
+        "Data": "03_seiko_etc5"
+      },
+      {
+        "Data": "03_seiko_kubitsuri"
+      },
+      {
+        "Data": "04_ayumi"
+      },
+      {
+        "Data": "04_ayumi_b"
+      },
+      {
+        "Data": "04_ayumi_etc1"
+      },
+      {
+        "Data": "04_ayumi_etc2"
+      },
+      {
+        "Data": "04_ayumi_etc3"
+      },
+      {
+        "Data": "04_ayumi_etc4"
+      },
+      {
+        "Data": "04_ayumi_etc5"
+      },
+      {
+        "Data": "04_ayumi_etc6"
+      },
+      {
+        "Data": "04_ayumi_etc7"
+      },
+      {
+        "Data": "04_ayumi_etc8"
+      },
+      {
+        "Data": "04_ayumi_haisui"
+      },
+      {
+        "Data": "04_ayumi_n"
+      },
+      {
+        "Data": "04_ayumi_normal"
+      },
+      {
+        "Data": "04_ayumi_uki"
+      },
+      {
+        "Data": "04_ayumi_w"
+      },
+      {
+        "Data": "04_ayum_chair"
+      },
+      {
+        "Data": "05_yoshiki"
+      },
+      {
+        "Data": "05_yoshiki_etc1"
+      },
+      {
+        "Data": "05_yoshiki_etc2"
+      },
+      {
+        "Data": "05_yoshiki_etc3"
+      },
+      {
+        "Data": "05_yoshiki_etc4"
+      },
+      {
+        "Data": "05_yoshiki_etc5"
+      },
+      {
+        "Data": "05_yoshiki_nyusui"
+      },
+      {
+        "Data": "05_yoshiki_nyusui_anim"
+      },
+      {
+        "Data": "05_yoshiki_onbu"
+      },
+      {
+        "Data": "05_yoshiki_onbu_nyusui"
+      },
+      {
+        "Data": "06_yuka"
+      },
+      {
+        "Data": "06_yuka_b"
+      },
+      {
+        "Data": "06_yuka_c"
+      },
+      {
+        "Data": "06_yuka_etc1"
+      },
+      {
+        "Data": "06_yuka_etc2"
+      },
+      {
+        "Data": "06_yuka_etc3"
+      },
+      {
+        "Data": "06_yuka_etc4"
+      },
+      {
+        "Data": "06_yuka_etc4_c1you"
+      },
+      {
+        "Data": "06_yuka_etc5"
+      },
+      {
+        "Data": "06_yuka_etc6"
+      },
+      {
+        "Data": "06_yuka_etc7"
+      },
+      {
+        "Data": "06_yuka_etc8"
+      },
+      {
+        "Data": "06_yuka_w"
+      },
+      {
+        "Data": "07_yui"
+      },
+      {
+        "Data": "07_yui_etc1"
+      },
+      {
+        "Data": "07_yui_etc1_smile"
+      },
+      {
+        "Data": "07_yui_etc2_damage"
+      },
+      {
+        "Data": "07_yui_etc3"
+      },
+      {
+        "Data": "07_yui_etc3_young"
+      },
+      {
+        "Data": "07_yui_etc4"
+      },
+      {
+        "Data": "07_yui_etc4_reaction"
+      },
+      {
+        "Data": "07_yui_w"
+      },
+      {
+        "Data": "07_yui_Yamazaki"
+      },
+      {
+        "Data": "08_mayu"
+      },
+      {
+        "Data": "08_mayu2"
+      },
+      {
+        "Data": "08_mayu_etc1"
+      },
+      {
+        "Data": "08_mayu_etc2"
+      },
+      {
+        "Data": "08_mayu_w"
+      },
+      {
+        "Data": "09_morishige"
+      },
+      {
+        "Data": "09_morishige_etc1"
+      },
+      {
+        "Data": "09_morishige_etc2"
+      },
+      {
+        "Data": "10_Naho"
+      },
+      {
+        "Data": "10_Naho_etc1"
+      },
+      {
+        "Data": "10_npc_girl_sassyou"
+      },
+      {
+        "Data": "11_hinoe"
+      },
+      {
+        "Data": "11_hinoe_etc1"
+      },
+      {
+        "Data": "11_hinoe_etc2"
+      },
+      {
+        "Data": "11_hinoe_etc3"
+      },
+      {
+        "Data": "11_hinoe_etc4_ayumi"
+      },
+      {
+        "Data": "11_hinoe_etc4_ayu_w"
+      },
+      {
+        "Data": "11_hinotama"
+      },
+      {
+        "Data": "11_Kizami"
+      },
+      {
+        "Data": "11_Kizami_etc1"
+      },
+      {
+        "Data": "11_Yoshikaz"
+      },
+      {
+        "Data": "11_Yoshikaz_etc1"
+      },
+      {
+        "Data": "11_Yoshikaz_etc2"
+      },
+      {
+        "Data": "11_Yoshikaz_etc3"
+      },
+      {
+        "Data": "11_Yoshikaz_etc4"
+      },
+      {
+        "Data": "11_Yoshikaz_etc5"
+      },
+      {
+        "Data": "11_Yoshikaz_ex1"
+      },
+      {
+        "Data": "13_komono01"
+      },
+      {
+        "Data": "13_komono02"
+      },
+      {
+        "Data": "14_tobira01"
+      },
+      {
+        "Data": "20_naomi_tentou"
+      },
+      {
+        "Data": "20_tetyou"
+      },
+      {
+        "Data": "22_penta"
+      },
+      {
+        "Data": "23_yui"
+      },
+      {
+        "Data": "25_medama"
+      },
+      {
+        "Data": "27_komono02"
+      },
+      {
+        "Data": "27_morishige2"
+      },
+      {
+        "Data": "28_chap4_komono"
+      },
+      {
+        "Data": "28_seiko_sleep"
+      },
+      {
+        "Data": "30_onryou_boy"
+      },
+      {
+        "Data": "31_onryo_girl"
+      },
+      {
+        "Data": "31_onryo_girl2"
+      },
+      {
+        "Data": "31_onryo_girl_etc"
+      },
+      {
+        "Data": "31_onryo_girl_etc1"
+      },
+      {
+        "Data": "32_ita"
+      },
+      {
+        "Data": "32_item"
+      },
+      {
+        "Data": "32_kizami_kill"
+      },
+      {
+        "Data": "32_kizami_kill2"
+      },
+      {
+        "Data": "32_sitai"
+      },
+      {
+        "Data": "33_hone"
+      },
+      {
+        "Data": "33_hone_A"
+      },
+      {
+        "Data": "33_hone_B"
+      },
+      {
+        "Data": "34_kage"
+      },
+      {
+        "Data": "35_tobira02"
+      },
+      {
+        "Data": "36_toilet"
+      },
+      {
+        "Data": "36_toilet_c2"
+      },
+      {
+        "Data": "37_baketu"
+      },
+      {
+        "Data": "38_harigami"
+      },
+      {
+        "Data": "38_tana"
+      },
+      {
+        "Data": "39_tosyabutsu"
+      },
+      {
+        "Data": "40_hokendesk_light"
+      },
+      {
+        "Data": "41_kizami"
+      },
+      {
+        "Data": "41_kizami_b"
+      },
+      {
+        "Data": "41_kizami_etc1"
+      },
+      {
+        "Data": "41_kizami_etc2"
+      },
+      {
+        "Data": "41_kizami_etc3"
+      },
+      {
+        "Data": "41_naomi_buruma"
+      },
+      {
+        "Data": "42_girl_mitsuki"
+      },
+      {
+        "Data": "42_girl_other"
+      },
+      {
+        "Data": "42_seiko_buruma"
+      },
+      {
+        "Data": "43_komono_chap2"
+      },
+      {
+        "Data": "44_chap2_chara_etc"
+      },
+      {
+        "Data": "44_kurosaki2"
+      },
+      {
+        "Data": "44_kurosaki2_etc1"
+      },
+      {
+        "Data": "45_hinotama_blue"
+      },
+      {
+        "Data": "45_hinotama_red"
+      },
+      {
+        "Data": "45_naomi_toilet01"
+      },
+      {
+        "Data": "45_whiteghost"
+      },
+      {
+        "Data": "46_chap2_chara_etc2"
+      },
+      {
+        "Data": "46_naomi_toilet02"
+      },
+      {
+        "Data": "47_chap2_chara_etc3"
+      },
+      {
+        "Data": "47_naomi_toilet03"
+      },
+      {
+        "Data": "48_chap2_chara_etc4"
+      },
+      {
+        "Data": "48_naomi_toilet04"
+      },
+      {
+        "Data": "48_naomi_toilet05"
+      },
+      {
+        "Data": "49_chap2_chara_etc5"
+      },
+      {
+        "Data": "49_chap4_chara1"
+      },
+      {
+        "Data": "50_chap2_chara_etc6"
+      },
+      {
+        "Data": "51_onryo_kubinasi"
+      },
+      {
+        "Data": "51_yoshikazu"
+      },
+      {
+        "Data": "52_chap2_chara_etc7"
+      },
+      {
+        "Data": "52_koutyou"
+      },
+      {
+        "Data": "53_chap2_chara_etc8"
+      },
+      {
+        "Data": "54_naho"
+      },
+      {
+        "Data": "54_naho_etc1"
+      },
+      {
+        "Data": "54_naho_etc2"
+      },
+      {
+        "Data": "56_satohi"
+      },
+      {
+        "Data": "56_yosikaz_b"
+      },
+      {
+        "Data": "58_yui_ch3"
+      },
+      {
+        "Data": "60_chap3_etc"
+      },
+      {
+        "Data": "60_chap3_etc2"
+      },
+      {
+        "Data": "60_taguchi"
+      },
+      {
+        "Data": "61_yui_w"
+      },
+      {
+        "Data": "62_ayumi_w"
+      },
+      {
+        "Data": "63_mayu_w"
+      },
+      {
+        "Data": "64_yuka_w"
+      },
+      {
+        "Data": "65_seiko_etc"
+      },
+      {
+        "Data": "66_naomi_c3"
+      },
+      {
+        "Data": "66_satomama"
+      },
+      {
+        "Data": "67_ayu&yoshi_etc"
+      },
+      {
+        "Data": "68_ayu&yoshi_etc2"
+      },
+      {
+        "Data": "69_naomi_etc"
+      },
+      {
+        "Data": "70_naomi_etc2"
+      },
+      {
+        "Data": "71_naomi_etc"
+      },
+      {
+        "Data": "71_naomi_etc3"
+      },
+      {
+        "Data": "71_naomi_keitai"
+      },
+      {
+        "Data": "72_naomi_etc4"
+      },
+      {
+        "Data": "73_yuka_etc1"
+      },
+      {
+        "Data": "73_yuka_etc2"
+      },
+      {
+        "Data": "73_yuka_etc3"
+      },
+      {
+        "Data": "74_sat_etc1"
+      },
+      {
+        "Data": "74_sat_etc2"
+      },
+      {
+        "Data": "80_kurosaki"
+      },
+      {
+        "Data": "81_ohkawa"
+      },
+      {
+        "Data": "82_katayama"
+      },
+      {
+        "Data": "83_fukuroi"
+      },
+      {
+        "Data": "85_kibiki"
+      },
+      {
+        "Data": "98_extrachr01_nana"
+      },
+      {
+        "Data": "98_extrachr02_amato"
+      },
+      {
+        "Data": "98_extrachr03_chihaya"
+      },
+      {
+        "Data": "98_extrachr04_kazane"
+      },
+      {
+        "Data": "98_extrachr_etc1"
+      },
+      {
+        "Data": "98_extra_obj_01"
+      },
+      {
+        "Data": "98_furo_anim_01"
+      },
+      {
+        "Data": "98_furo_anim_02"
+      },
+      {
+        "Data": "98_furo_anim_03"
+      },
+      {
+        "Data": "98_furo_anim_04"
+      },
+      {
+        "Data": "98_furo_anim_05"
+      },
+      {
+        "Data": "98_furo_anim_06"
+      },
+      {
+        "Data": "98_furo_anim_07"
+      },
+      {
+        "Data": "98_furo_anim_08"
+      },
+      {
+        "Data": "98_furo_anim_09"
+      },
+      {
+        "Data": "98_furo_anim_10"
+      },
+      {
+        "Data": "99_ame"
+      },
+      {
+        "Data": "99_naomi&seiko"
+      },
+      {
+        "Data": "99_naomi_c"
+      },
+      {
+        "Data": "99_pool_kyusui"
+      },
+      {
+        "Data": "99_sachiko"
+      },
+      {
+        "Data": "99_youmuin_tv"
+      },
+      {
+        "Data": "akahuku"
+      },
+      {
+        "Data": "akahuku2"
+      },
+      {
+        "Data": "akahuku_b"
+      },
+      {
+        "Data": "akahuku_etc1"
+      },
+      {
+        "Data": "akahuku_ex1"
+      },
+      {
+        "Data": "akahuku_c"
+      },
+      {
+        "Data": "ame"
+      },
+      {
+        "Data": "ayumi_satugai"
+      },
+      {
+        "Data": "ayumi_uki"
+      },
+      {
+        "Data": "bekkan_toilet_tobira"
+      },
+      {
+        "Data": "big_tana"
+      },
+      {
+        "Data": "Bunkaningyou"
+      },
+      {
+        "Data": "chara_PSP"
+      },
+      {
+        "Data": "easel"
+      },
+      {
+        "Data": "ex11"
+      },
+      {
+        "Data": "ex11_02"
+      },
+      {
+        "Data": "ex5"
+      },
+      {
+        "Data": "hamon"
+      },
+      {
+        "Data": "hokensitu_enter"
+      },
+      {
+        "Data": "hokensitu_enter2"
+      },
+      {
+        "Data": "Hoken_note_anime"
+      },
+      {
+        "Data": "jintaimokei"
+      },
+      {
+        "Data": "jintaimokei_b"
+      },
+      {
+        "Data": "koutyou"
+      },
+      {
+        "Data": "koutyou_etc"
+      },
+      {
+        "Data": "Kurokage"
+      },
+      {
+        "Data": "morishige_etc2_ex9"
+      },
+      {
+        "Data": "morishige_etc_ex9"
+      },
+      {
+        "Data": "morishige_noglasses_ex9"
+      },
+      {
+        "Data": "nokia_tuuwa"
+      },
+      {
+        "Data": "nokia_tyakusin"
+      },
+      {
+        "Data": "nokia_tyakusin_ani"
+      },
+      {
+        "Data": "rei_reaction"
+      },
+      {
+        "Data": "rei_reaction_00"
+      },
+      {
+        "Data": "simi"
+      },
+      {
+        "Data": "simi2"
+      },
+      {
+        "Data": "simi3"
+      },
+      {
+        "Data": "simi4"
+      },
+      {
+        "Data": "tika_bridge"
+      },
+      {
+        "Data": "tobira02"
+      },
+      {
+        "Data": "tobira_etc"
+      },
+      {
+        "Data": "tobira_etc2_Gakubuti"
+      },
+      {
+        "Data": "tobira_ex8"
+      },
+      {
+        "Data": "yoshie"
+      },
+      {
+        "Data": "yoshie_live"
+      },
+      {
+        "Data": "yoshiki_etc_ex9"
+      },
+      {
+        "Data": "yui_damege"
+      },
+      {
+        "Data": "02_naomi_musi"
+      },
+      {
+        "Data": "02_naomi_musi2"
+      },
+      {
+        "Data": "60_taguchi_other"
+      },
+      {
+        "Data": "81_ohkawa_damage"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "pad"
+      },
+      {
+        "Data": "se_set01"
+      },
+      {
+        "Data": "se_set02"
+      },
+      {
+        "Data": "se_set03"
+      },
+      {
+        "Data": "se_set04"
+      },
+      {
+        "Data": "se_set05"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

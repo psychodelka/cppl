@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 943
+  },
+  "m_Name": "playersettinglist_txt_jp",
+  "cpPlayerSetting": {
+    "Array": [
+      {
+        "index": 0,
+        "Name": "",
+        "Face": "なし",
+        "BustUp": "SAT_AA01.tga",
+        "PtFace": "PR00_NON",
+        "D2CharaName": "01_satoshi"
+      },
+      {
+        "index": 1,
+        "Name": "持田 哲志",
+        "Face": "01_satosh_a.bmp",
+        "BustUp": "SAT_AA01.tga",
+        "PtFace": "PR01_SAT",
+        "D2CharaName": "01_satoshi"
+      },
+      {
+        "index": 13,
+        "Name": "哲志たち",
+        "Face": "01_satosh_m.bmp",
+        "BustUp": "SAT_AA05.tga",
+        "PtFace": "PR02_SAT",
+        "D2CharaName": "01_satoshi"
+      },
+      {
+        "index": 16,
+        "Name": "中嶋 直美",
+        "Face": "02_naomi_a.bmp",
+        "BustUp": "NAO_AA01.tga",
+        "PtFace": "PR03_NAO",
+        "D2CharaName": "02_naomi"
+      },
+      {
+        "index": 42,
+        "Name": "篠原 世以子",
+        "Face": "03_seiko_a.bmp",
+        "BustUp": "SEI_AA01.tga",
+        "PtFace": "PR04_SEI",
+        "D2CharaName": "03_seiko"
+      },
+      {
+        "index": 53,
+        "Name": "篠崎 あゆみ",
+        "Face": "04_ayumi_a.bmp",
+        "BustUp": "AYU_AA01.tga",
+        "PtFace": "PR05_AYU",
+        "D2CharaName": "04_ayumi"
+      },
+      {
+        "index": 68,
+        "Name": "岸沼 良樹",
+        "Face": "05_yoshiki_a.bmp",
+        "BustUp": "YOS_AA01.tga",
+        "PtFace": "PR06_YOS",
+        "D2CharaName": "05_yoshiki"
+      },
+      {
+        "index": 76,
+        "Name": "持田 由香",
+        "Face": "06_yuka_a.bmp",
+        "BustUp": "YUK_AA01.tga",
+        "PtFace": "PR07_YUK",
+        "D2CharaName": "06_yuka"
+      },
+      {
+        "index": 96,
+        "Name": "宍戸 結衣",
+        "Face": "07_yui_a.bmp",
+        "BustUp": "YUI_AA01.tga",
+        "PtFace": "PR08_YUI",
+        "D2CharaName": "07_yui"
+      },
+      {
+        "index": 105,
+        "Name": "鈴本 繭",
+        "Face": "08_mayu_a.bmp",
+        "BustUp": "MAY_AA01.tga",
+        "PtFace": "PR09_MAY",
+        "D2CharaName": "08_mayu"
+      },
+      {
+        "index": 108,
+        "Name": "刻命 裕也",
+        "Face": "09_kizami_a.bmp",
+        "BustUp": "KIZ_AA01.tga",
+        "PtFace": "PR10_KIZ",
+        "D2CharaName": "11_Kizami"
+      },
+      {
+        "index": 111,
+        "Name": "黒崎 健介",
+        "Face": "10_kurosaki_a.bmp",
+        "BustUp": "KUR_AA01.tga",
+        "PtFace": "PR11_KUR",
+        "D2CharaName": "80_kurosaki"
+      },
+      {
+        "index": 116,
+        "Name": "森繁 朔太郎",
+        "Face": "11_morishige_a.bmp",
+        "BustUp": "MOR_AA01.tga",
+        "PtFace": "PR12_MOR",
+        "D2CharaName": "09_morishige"
+      },
+      {
+        "index": 118,
+        "Name": "山瀬 千早",
+        "Face": "12_chihaya_a.bmp",
+        "BustUp": "THI_AA01.tga",
+        "PtFace": "PR13_YSE",
+        "D2CharaName": "98_extrachr03_chihaya"
+      },
+      {
+        "index": 119,
+        "Name": "小笠原 奈那",
+        "Face": "14_nana_a.bmp",
+        "BustUp": "NAN_AA01.tga",
+        "PtFace": "PR14_NAN",
+        "D2CharaName": "98_extrachr01_nana"
+      },
+      {
+        "index": 120,
+        "Name": "天戸屋 成",
+        "Face": "15_naru_a.bmp",
+        "BustUp": "NAR_AA01.tga",
+        "PtFace": "PR15_NAR",
+        "D2CharaName": "98_extrachr02_amato"
+      },
+      {
+        "index": 121,
+        "Name": "田久地 将五",
+        "Face": "16_taguchi_a.bmp",
+        "BustUp": "NAR_AA01.tga",
+        "PtFace": "PR16_TGT",
+        "D2CharaName": "60_taguchi"
+      },
+      {
+        "index": 122,
+        "Name": "大川 智寛",
+        "Face": "17_ohkawa_a.bmp",
+        "BustUp": "NAR_AA01.tga",
+        "PtFace": "PR17_OKW",
+        "D2CharaName": "81_ohkawa"
+      },
+      {
+        "index": 123,
+        "Name": "白夢 美九",
+        "Face": "02_naomi_a.bmp",
+        "BustUp": "NAR_AA01.tga",
+        "PtFace": "PR18_MIK",
+        "D2CharaName": "02_naomi"
+      }
+    ]
+  }
+}

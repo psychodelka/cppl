@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "savepointlist_txt_jp",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "２のＡ"
+      },
+      {
+        "Data": "保健室"
+      },
+      {
+        "Data": "西館：南階段"
+      },
+      {
+        "Data": "保健室前"
+      },
+      {
+        "Data": "本館：南階段"
+      },
+      {
+        "Data": "２のＡ教室"
+      },
+      {
+        "Data": "別館：玄関"
+      },
+      {
+        "Data": "本館：西階段"
+      },
+      {
+        "Data": "２－Ａ"
+      },
+      {
+        "Data": "旧校舎：１Ｆ北西"
+      },
+      {
+        "Data": "旧校舎：２Ｆ理科室前"
+      },
+      {
+        "Data": "旧校舎：２Ｆ元保健室前"
+      },
+      {
+        "Data": "別館：西・通し階段"
+      },
+      {
+        "Data": "地下防空壕：１"
+      },
+      {
+        "Data": "地下防空壕：２"
+      },
+      {
+        "Data": "地下防空壕：最深部"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

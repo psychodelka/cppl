@@ -1,0 +1,1108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 758
+  },
+  "m_Name": "deaddatalist_txt_en2",
+  "cpDeadData": {
+    "Array": [
+      {
+        "index": 1,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Mitsuki Yamamoto",
+            "Back slashed open with edged weapon; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Kensuke Kurosaki",
+            "Body repeatedly flayed with edged weapon.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Tohko Kirisaki",
+            "Cut out own tongue with scissors and choked\non it.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "Capter": 2,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Ryosuke Katayama",
+            "Pushed down stairs; suffered compound fracture and bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "Capter": 2,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Tomohiro Ohkawa",
+            "Sliced up with edged weapon; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "Capter": 2,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Kai Shimada",
+            "Sliced up with edged weapon; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 7,
+        "Capter": 2,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Masato Fukuroi",
+            "Struck with one weapon and stabbed with another; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 8,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Emi Urabe",
+            "Skull cracked open with blunt instrument.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 9,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Byakudan Senior High School",
+            "Class 2-4",
+            "Yuuya Kizami",
+            "Beaten to death with blunt instrument. Whereabouts of body unknown.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 10,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Tendo Senior High School",
+            "Class Ⅱ-A",
+            "Masayuki Hayashi",
+            "Caught in trap; bled out.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 11,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Tendo Senior High School",
+            "Class Ⅱ-A",
+            "Yuuya Kumada",
+            "Starved to death while searching for friend.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 12,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Tendo Senior High School",
+            "Class Ⅱ-C",
+            "Kyosuke Himonya",
+            "Caught in trap and ripped arm from body; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 13,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Tendo Senior High School",
+            "Class Ⅲ-B",
+            "Hideki Tachibana",
+            "Strangled to death by unknown assailant.",
+            "Age : 18"
+          ]
+        }
+      },
+      {
+        "index": 14,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Tendo Senior High School",
+            "Class Ⅲ-B",
+            "Kaori Hasegawa",
+            "Blunt force trauma and multiple fractures; died from pain.",
+            "Age : 18"
+          ]
+        }
+      },
+      {
+        "index": 15,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Tendo Senior High School",
+            "Class Ⅱ-A",
+            "Shiho Hasegawa",
+            "Immobilized when tendons in leg were snipped;\nbled out.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 16,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Amazaki West Senior Private School",
+            "Class 2-4",
+            "Eriya Seto",
+            "Fell down stairs; died from spinal injuries.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 17,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Amazaki West Senior Private School",
+            "Class 2-4",
+            "Satoshi Matsubara",
+            "Drank contaminated water; died vomiting.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 18,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Amazaki West Senior Private School",
+            "Class 2-4",
+            "Hidemasa Kojima",
+            "Attempted to drink own blood; bled to death.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 19,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Amazaki West Senior Private School",
+            "Class 2-4",
+            "Takayuki Motomura",
+            "Suicide upon discovering little sister's lifeless remains.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 20,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Amazaki West Senior Private School",
+            "Class 2-4",
+            "Hiroko Motomura",
+            "Withered away from dehydration.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 22,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Lexern Senior High School",
+            "Class 3-2",
+            "Hotaru Kanzaki",
+            "Gave up on escaping and committed suicide with beloved.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 23,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Lexern Senior High School",
+            "Class 2-4",
+            "Nayuki Minatogawa",
+            "Gave up on escaping and committed suicide with beloved.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 24,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Lexern Senior High School",
+            "Class 3-2",
+            "Takuya Arai",
+            "Died in pool、 but is unaware of own demise.",
+            "Age : 18"
+          ]
+        }
+      },
+      {
+        "index": 25,
+        "Capter": 2,
+        "str": {
+          "Array": [
+            "Lexern Senior High School",
+            "Class 3-2",
+            "Emi Kudou",
+            "Willingly offered own flesh as food to sustain friend.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 26,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Lexern Senior High School",
+            "Class 2-4",
+            "Nao Takahashi",
+            "Withered away from dehydration.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 27,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Lexern Senior High School",
+            "Class 2-4",
+            "Kaori Kimura",
+            "Wounded during earthquake; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 28,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Aizome Junior High School",
+            "Class Ⅱ-6",
+            "Hirune Tanaka",
+            "Drowned after friend was killed by child spirit.",
+            "Age : 14"
+          ]
+        }
+      },
+      {
+        "index": 29,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Aizome Junior High School",
+            "Class Ⅱ-2",
+            "Mai Kumasaki",
+            "Stabbed by child spirit with scissors; slowly slipped away into death.",
+            "Age : 14"
+          ]
+        }
+      },
+      {
+        "index": 30,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Aizome Junior High School",
+            "Class Ⅲ-3",
+            "Toshimi Shinomiya",
+            "Came to Heavenly Host for data collection. Left magnum opus for posterity. Died when cranium was split open with blunt instrument.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 31,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Aizome Junior High School",
+            "Class Ⅰ-2",
+            "Seiko Tanaka",
+            "Possessed while passing to second wing; suffered mental collapse.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 32,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Aizome Junior High School",
+            "Class Ⅲ-4",
+            "Sunoko Tamura",
+            "Door closed forcefully on neck; beheaded.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 34,
+        "Capter": 2,
+        "str": {
+          "Array": [
+            "Musashigawa Girls' Middle\nSchool",
+            "Class Ⅰ-2",
+            "Hikari Kirigami",
+            "Bled out from injuries.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 35,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Musashigawa Girls' Middle\nSchool",
+            "Class Ⅰ-4",
+            "Nana Ogasawara",
+            "Tongue removed; went into shock and died.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 36,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Musashigawa Girls' Middle\nSchool",
+            "Class Ⅰ-4",
+            "Chihaya Yamase",
+            "Dissected in underground room and crammed in\nbucket.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 37,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Musashigawa Girls' Middle\nSchool",
+            "Class Ⅰ-6",
+            "Nari Amatoya",
+            "Only a nametag was found. Exact circumstances of death unknown.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 38,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Musashigawa Girls' High School",
+            "Class Ⅱ-3",
+            "Mika Naruse",
+            "Skull cracked open with blunt instrument.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 39,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Musashigawa Girls' High School",
+            "Class Ⅱ-3",
+            "Rio Kazane",
+            "Head completely smashed in with blunt instrument.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 40,
+        "Capter": 1,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class Ⅰ-2",
+            "Koito Fujiwara",
+            "Skull cracked open with blunt instrument.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 41,
+        "Capter": 1,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class Ⅰ-2",
+            "Yuzuha Mikami",
+            "Ribcage smashed in with blunt instrument.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 42,
+        "Capter": 1,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class Ⅰ-2",
+            "Sasha Shinonome",
+            "Ribcage smashed in with blunt instrument.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 43,
+        "Capter": 1,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class Ⅰ-2",
+            "Asuka Kato",
+            "Skull cracked open with blunt instrument.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 44,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class Ⅱ-3",
+            "Ryoko Fujiwara",
+            "Found note with little sister's remains;  starved to death while mourning.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 45,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class Ⅱ-3",
+            "Ayana Misono",
+            "Died in sleep alongside beloved.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 46,
+        "Capter": 1,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 3-4",
+            "Yoshiyuki Shinohara",
+            "Caught in trap; bled out.",
+            "Age : 18"
+          ]
+        }
+      },
+      {
+        "index": 47,
+        "Capter": 1,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 3-6",
+            "Shin Aichi",
+            "Trapped in classroom; starved to death.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 48,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Kokuhaku Akaboji",
+            "Consumed by curse; faded from existence.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 49,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Yuma Misaki",
+            "Neck slit from behind.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 50,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Akihiko Kagurazaka",
+            "Suffered severe injury to abdomen; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 51,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Tomoe Mizuki",
+            "Last seen entering woods outside school building; whereabouts unknown.",
+            "Death unconfirmed."
+          ]
+        }
+      },
+      {
+        "index": 52,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Hatto Sudo",
+            "Took blow to head for friend; skull split open.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 53,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Mitsuharu Ohtaki",
+            "Succumbed to darkening and died in anguish.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 54,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Kain Hagiwara",
+            "Achilles tendon severed with scissors; bled out.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 55,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅲ-5",
+            "Mao Kashiwatani",
+            "Starved to death while searching for friends.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 56,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅲ-5",
+            "Yohsuke Maebana",
+            "Starved to death while searching for friends.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 57,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅲ-5",
+            "Yuuki Tsuruta",
+            "Starved to death while searching for little sister.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 58,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅱ-2",
+            "Mio Kanaki",
+            "Starved to death after desperate search for\nbig brother.",
+            "Age : 14"
+          ]
+        }
+      },
+      {
+        "index": 59,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅲ-5",
+            "Kotowe Kuroyama",
+            "Hanged by unknown assailant.",
+            "Age : 15"
+          ]
+        }
+      },
+      {
+        "index": 60,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅰ-4",
+            "Tsukasa Tsuruta",
+            "Collapsed into pool while searching for big brother.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 61,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Megumi Sugii",
+            "Starved to death after desperate search for\nfriend.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 62,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Yuuki Nishimiya",
+            "Buried alive by spirit of little boy; suffocated.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 63,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Hinata Ouin",
+            "Died in sleep alongside beloved.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 64,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Paulownia Academy High School",
+            "Class 2-1",
+            "Sayaka Ooue",
+            "Succumbed to darkening and faded while searching for companion、 Naho.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 65,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Paulownia Academy High School",
+            "Class 2-1",
+            "Naho Saenoki",
+            "Succumbed to darkening、 lost consciousness and faded away. Spirit lived on.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 66,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Kaya Kizaki",
+            "Comforted friend with smiles and optimism until dying breath. Eventually withered away.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 67,
+        "Capter": 3,
+        "str": {
+          "Array": [
+            "Distant Futures Elementary School",
+            "Class 4-3",
+            "Kanau Sachimura",
+            "Withered away from dehydration.",
+            "Age : 9"
+          ]
+        }
+      },
+      {
+        "index": 68,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Distant Futures Elementary School",
+            "Class 4-3",
+            "Kanzuki Saito",
+            "Lost footing near pool; hit head、 fell in and\ndrowned.",
+            "Age : 9"
+          ]
+        }
+      },
+      {
+        "index": 69,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅰ-4",
+            "Takuji Mizuno",
+            "Died in sleep alongside beloved.",
+            "Age : 13"
+          ]
+        }
+      },
+      {
+        "index": 70,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Shibagami Private Senior\nHigh School",
+            "Class 1-A",
+            "Mari Rokuhara",
+            "Attacked from behind while searching for friends.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 71,
+        "Capter": 4,
+        "str": {
+          "Array": [
+            "Shibagami Private Senior\nHigh School",
+            "Class 1-A",
+            "Mitsuki Kamijou",
+            "Accosted from behind and thrown into pool.",
+            "Age : 16"
+          ]
+        }
+      },
+      {
+        "index": 72,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Shibagami Private Senior\nHigh School",
+            "Class 1-A",
+            "Kagemi Yano",
+            "Strangled to death.",
+            "Age : 16 "
+          ]
+        }
+      },
+      {
+        "index": 73,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Amazaki West Senior Private School",
+            "Class 2-2",
+            "Makoto Nagareyama",
+            "Died of loneliness.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 74,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class II-3",
+            "Kazunari Takayanagi",
+            "A popular fop of a teacher、 with white suit and spectacles complemented by a gentleman's\ncane. Abdomen hollowed out with knife; died\nof shock.",
+            "Age : 25"
+          ]
+        }
+      },
+      {
+        "index": 75,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class II-3",
+            "Tohru Fujimoto",
+            "A staunch supporter of the Academy's students. Always encouraged them to spread their wings. Died of beheading.",
+            "Age : 27"
+          ]
+        }
+      },
+      {
+        "index": 76,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class II-3",
+            "Tomoyuki Hamada",
+            "Head of the music department at the Academy. Constantly fantasized about by students. Legs amputated; died of blood loss.",
+            "Age : 23"
+          ]
+        }
+      },
+      {
+        "index": 77,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Seisei Academy for Girls",
+            "Class II-3",
+            "Yasuji Morita",
+            "The Academy's most talented writer. Frequently traveled to other countries. Wandered until legs gave out; died of exhaustion.",
+            "Age : 20"
+          ]
+        }
+      },
+      {
+        "index": 78,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Yasuhiko Nomura",
+            "Adored both school and students. Kept countless mementos of his time as teacher. Died of beheading.",
+            "Age : 25"
+          ]
+        }
+      },
+      {
+        "index": 79,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Takuya Nishimura",
+            "A practitioner of flower ceremony、 and a lover of harmony and peace. Renowned for quiet sophistication. Died of stab wounds to abdomen.",
+            "Age : 25"
+          ]
+        }
+      },
+      {
+        "index": 80,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Misato Municipal Brotherhood High",
+            "Class 2-4",
+            "Ken Fujii",
+            "Stabbed with scissors by child spirit; bled out.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 81,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Tsutaya Azuma",
+            "Drowned in pool of decomposing corpses.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 82,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Shibagami Private Senior\nHigh School",
+            "Class 2-1",
+            "Ryoto Kumakawa",
+            "Took hit from blunt instrument for friend; died of injuries.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 83,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "St. Maryanne University High School",
+            "Class 2-1",
+            "Marina Okada",
+            "Comforted friend with smiles and optimism until dying breath. Eventually withered away.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 84,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Shibagami Private Senior\nHigh School",
+            "Class 2-1",
+            "Yuki Sakakibara",
+            "Believed in power of friendship until dying breath. Eventually dehydrated.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 85,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Shibagami Private Senior\nHigh School",
+            "Class 2-1",
+            "Izuru Ohkami",
+            "Withered away from dehydration.",
+            "Age : 17"
+          ]
+        }
+      },
+      {
+        "index": 86,
+        "Capter": 5,
+        "str": {
+          "Array": [
+            "Hakuro #3 Junior High School",
+            "Class Ⅲ-5",
+            "Kotomi Nashimoto",
+            "Slit wrists along with friends under pretense\nof performing reincarnation ritual; bled out.",
+            "Age : 15"
+          ]
+        }
+      }
+    ]
+  }
+}

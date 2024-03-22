@@ -1,0 +1,360 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 685
+  },
+  "m_Name": "all_maplist_txt_jp",
+  "cpMapNameData": {
+    "Array": [
+      {
+        "Data": "なし",
+        "Type": 0
+      },
+      {
+        "Data": "別館１階 玄関",
+        "Type": 0
+      },
+      {
+        "Data": "別館１階 東通路",
+        "Type": 0
+      },
+      {
+        "Data": "別館１階 西通路",
+        "Type": 0
+      },
+      {
+        "Data": "別館２階 東通路",
+        "Type": 0
+      },
+      {
+        "Data": "別館２階 西通路",
+        "Type": 0
+      },
+      {
+        "Data": "地下防空壕跡",
+        "Type": 0
+      },
+      {
+        "Data": "解体部屋",
+        "Type": 0
+      },
+      {
+        "Data": "???",
+        "Type": 0
+      },
+      {
+        "Data": "殺害現場",
+        "Type": 0
+      },
+      {
+        "Data": "本館１階 玄関",
+        "Type": 0
+      },
+      {
+        "Data": "本館１階 東通路",
+        "Type": 0
+      },
+      {
+        "Data": "本館１階 西通路",
+        "Type": 0
+      },
+      {
+        "Data": "本館２階中央通路",
+        "Type": 0
+      },
+      {
+        "Data": "本館２階 東通路",
+        "Type": 0
+      },
+      {
+        "Data": "本館２階 西通路",
+        "Type": 0
+      },
+      {
+        "Data": "本館３階 東通路",
+        "Type": 0
+      },
+      {
+        "Data": "本館３階 西通路",
+        "Type": 0
+      },
+      {
+        "Data": "１のＡ 教室",
+        "Type": 0
+      },
+      {
+        "Data": "２のＡ 教室",
+        "Type": 0
+      },
+      {
+        "Data": "３のＡ 教室",
+        "Type": 0
+      },
+      {
+        "Data": "５のＡ 教室",
+        "Type": 0
+      },
+      {
+        "Data": "保健室",
+        "Type": 0
+      },
+      {
+        "Data": "校長室",
+        "Type": 0
+      },
+      {
+        "Data": "更衣室",
+        "Type": 0
+      },
+      {
+        "Data": "自殺のあった音楽室",
+        "Type": 0
+      },
+      {
+        "Data": "水圧調整室",
+        "Type": 0
+      },
+      {
+        "Data": "天神小 水練場",
+        "Type": 0
+      },
+      {
+        "Data": "理科室",
+        "Type": 0
+      },
+      {
+        "Data": "職員室",
+        "Type": 0
+      },
+      {
+        "Data": "資料室",
+        "Type": 0
+      },
+      {
+        "Data": "用務員室",
+        "Type": 0
+      },
+      {
+        "Data": "呪われた図工室",
+        "Type": 0
+      },
+      {
+        "Data": "別館・男子厠",
+        "Type": 0
+      },
+      {
+        "Data": "別館・女子厠",
+        "Type": 0
+      },
+      {
+        "Data": "本館・男子厠",
+        "Type": 0
+      },
+      {
+        "Data": "本館・女子厠",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_00a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_00b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_01a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_01b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_02a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_02b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_03a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_03b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_04a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "00_staff_04b.tga",
+        "Type": 0
+      },
+      {
+        "Data": "face_waku.tga",
+        "Type": 0
+      },
+      {
+        "Data": "mission01a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "<size=840>紳士のハットを発見せよ",
+        "Type": 0
+      },
+      {
+        "Data": "mission02a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "<size=840>紳士の眼鏡を発見せよ",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFF01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC1_01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC1_02.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC1_03.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC1_04.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC1_05.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC3_01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC3_02.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC3_03.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC3_04.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC3_05.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC4_01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC4_02.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC4_03.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC4_04.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC4_05.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_02.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_03.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_04.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_05.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_06.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_07.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFC5_08.tga",
+        "Type": 0
+      },
+      {
+        "Data": "TextEFFCE_01.tga",
+        "Type": 0
+      },
+      {
+        "Data": "mission01a.tga",
+        "Type": 0
+      },
+      {
+        "Data": "<size=600><align=\"center\">Ａｆｔｅｒ　Ｅｆｆｅｃｔ．．．",
+        "Type": 0
+      },
+      {
+        "Data": "<size=600><align=\"center\">ゼラニウム",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "\r",
+        "Type": 0
+      },
+      {
+        "Data": "",
+        "Type": 0
+      }
+    ]
+  }
+}

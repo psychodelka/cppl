@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 161
+  },
+  "m_Name": "extra006_maplist_dat_jp",
+  "cpMapDefaultData": {
+    "Array": [
+      {
+        "Name": "オープニング",
+        "MapNo": 0,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "extra006_map_00_00.bmp",
+            "extra006_map_00_01.bmp",
+            "extra006_map_00_02.bmp"
+          ]
+        },
+        "MapAttr": "extra006_map_00_attr.dat\r"
+      },
+      {
+        "Name": "教室",
+        "MapNo": 1,
+        "DarkEffect": 0,
+        "FogEffect": 0,
+        "Light": 0,
+        "Thunder": 0,
+        "Enemy": 0,
+        "MapName": {
+          "Array": [
+            "extra006_map_01_00.bmp",
+            "extra006_map_01_01.bmp",
+            "extra006_map_01_02.bmp"
+          ]
+        },
+        "MapAttr": "extra006_map_01_attr.dat\r"
+      }
+    ]
+  }
+}

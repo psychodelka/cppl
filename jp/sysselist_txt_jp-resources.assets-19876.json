@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "sysselist_txt_jp",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "COP-SE_thunder01"
+      },
+      {
+        "Data": "COP-SE_thunder02"
+      },
+      {
+        "Data": "COP-SE_thunder03"
+      },
+      {
+        "Data": "COP-SYS-SE001"
+      },
+      {
+        "Data": "COP-SYS-SE002"
+      },
+      {
+        "Data": "COP-SYS-SE003"
+      },
+      {
+        "Data": "COP-SYS-SE003B"
+      },
+      {
+        "Data": "COP-SYS-SE004"
+      },
+      {
+        "Data": "COP-SYS-SE004B"
+      },
+      {
+        "Data": "COP-SYS-SE005"
+      },
+      {
+        "Data": "COP-SYS-SE006"
+      },
+      {
+        "Data": "COP-SYS-SE007"
+      },
+      {
+        "Data": "COP-SYS-SE009"
+      },
+      {
+        "Data": "COP-SYS-SE010"
+      },
+      {
+        "Data": "COP-SYS-SE011"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}

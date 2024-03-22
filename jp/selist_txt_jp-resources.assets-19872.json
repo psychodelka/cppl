@@ -1,0 +1,1456 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "selist_txt_jp",
+  "commonStringData": {
+    "Array": [
+      {
+        "Data": "なし"
+      },
+      {
+        "Data": "COP-SE_00_ayumi_foot"
+      },
+      {
+        "Data": "COP-SE_00_camera_otosu"
+      },
+      {
+        "Data": "COP-SE_00_dageki_03"
+      },
+      {
+        "Data": "COP-SE_00_ectoplasm_s"
+      },
+      {
+        "Data": "COP-SE_00_foot_run_taguchi_01"
+      },
+      {
+        "Data": "COP-SE_00_foot_run_taguchi_02"
+      },
+      {
+        "Data": "COP-SE_00_kaidan_ochiru_l"
+      },
+      {
+        "Data": "COP-SE_00_keitai_close"
+      },
+      {
+        "Data": "COP-SE_00_keitai_open"
+      },
+      {
+        "Data": "COP-SE_00_keitai_pushon"
+      },
+      {
+        "Data": "COP-SE_00_rap"
+      },
+      {
+        "Data": "COP-SE_00_shovel_horu"
+      },
+      {
+        "Data": "COP-SE_00_warp_02"
+      },
+      {
+        "Data": "COP-SE_00kizami_survivalknife"
+      },
+      {
+        "Data": "COP-SE_cutter_01_k132"
+      },
+      {
+        "Data": "COP-SE_cutter_02_k133"
+      },
+      {
+        "Data": "COP-SE_cutter_03_k134"
+      },
+      {
+        "Data": "COP-SE_cutter_04_k135"
+      },
+      {
+        "Data": "COP-SE_foot_engawa_01"
+      },
+      {
+        "Data": "COP-SE_gasa"
+      },
+      {
+        "Data": "COP-SE_k001"
+      },
+      {
+        "Data": "COP-SE_k002"
+      },
+      {
+        "Data": "COP-SE_k003"
+      },
+      {
+        "Data": "COP-SE_k004"
+      },
+      {
+        "Data": "COP-SE_k005"
+      },
+      {
+        "Data": "COP-SE_k006"
+      },
+      {
+        "Data": "COP-SE_k007"
+      },
+      {
+        "Data": "COP-SE_k008"
+      },
+      {
+        "Data": "COP-SE_k009"
+      },
+      {
+        "Data": "COP-SE_k010"
+      },
+      {
+        "Data": "COP-SE_k010_wipe"
+      },
+      {
+        "Data": "COP-SE_k011"
+      },
+      {
+        "Data": "COP-SE_k011_mizupicha"
+      },
+      {
+        "Data": "COP-SE_k012"
+      },
+      {
+        "Data": "COP-SE_k012_mizuchoro"
+      },
+      {
+        "Data": "COP-SE_k013"
+      },
+      {
+        "Data": "COP-SE_k013_mizuchoro2"
+      },
+      {
+        "Data": "COP-SE_k014"
+      },
+      {
+        "Data": "COP-SE_k014_rope_kisimi_Long"
+      },
+      {
+        "Data": "COP-SE_k014_rope_kisimi_Long_02"
+      },
+      {
+        "Data": "COP-SE_k015"
+      },
+      {
+        "Data": "COP-SE_k015_mizupicha2"
+      },
+      {
+        "Data": "COP-SE_k016"
+      },
+      {
+        "Data": "COP-SE_k016_rope_kisimi_Short"
+      },
+      {
+        "Data": "COP-SE_k017"
+      },
+      {
+        "Data": "COP-SE_k017_shock"
+      },
+      {
+        "Data": "COP-SE_k018"
+      },
+      {
+        "Data": "COP-SE_k019"
+      },
+      {
+        "Data": "COP-SE_k020"
+      },
+      {
+        "Data": "COP-SE_k020_shockZokuri"
+      },
+      {
+        "Data": "COP-SE_k020_zokuri"
+      },
+      {
+        "Data": "COP-SE_k021"
+      },
+      {
+        "Data": "COP-SE_k021a_heart_normal"
+      },
+      {
+        "Data": "COP-SE_k021a_heart_normal_s"
+      },
+      {
+        "Data": "COP-SE_k021b_heart_low"
+      },
+      {
+        "Data": "COP-SE_k022"
+      },
+      {
+        "Data": "COP-SE_k022_jisin_Poltergeist2"
+      },
+      {
+        "Data": "COP-SE_k023"
+      },
+      {
+        "Data": "COP-SE_k023_kubisime"
+      },
+      {
+        "Data": "COP-SE_k024"
+      },
+      {
+        "Data": "COP-SE_k024_kubisime"
+      },
+      {
+        "Data": "COP-SE_k025"
+      },
+      {
+        "Data": "COP-SE_k025_sunajyari_BotoBoto"
+      },
+      {
+        "Data": "COP-SE_k026"
+      },
+      {
+        "Data": "COP-SE_k026_syagami"
+      },
+      {
+        "Data": "COP-SE_k027"
+      },
+      {
+        "Data": "COP-SE_k027_light_chikachika1"
+      },
+      {
+        "Data": "COP-SE_k028"
+      },
+      {
+        "Data": "COP-SE_k028_light_chikachika2"
+      },
+      {
+        "Data": "COP-SE_k029"
+      },
+      {
+        "Data": "COP-SE_k029_yukaware"
+      },
+      {
+        "Data": "COP-SE_k030"
+      },
+      {
+        "Data": "COP-SE_k030_Hair_chirichiri_yake"
+      },
+      {
+        "Data": "COP-SE_k031"
+      },
+      {
+        "Data": "COP-SE_k031_Taiiku_Jyoukei"
+      },
+      {
+        "Data": "COP-SE_k032"
+      },
+      {
+        "Data": "COP-SE_k032_Kousya_Jyoukei"
+      },
+      {
+        "Data": "COP-SE_k033"
+      },
+      {
+        "Data": "COP-SE_k033_gukiri"
+      },
+      {
+        "Data": "COP-SE_k034"
+      },
+      {
+        "Data": "COP-SE_k034_tobira_aki"
+      },
+      {
+        "Data": "COP-SE_k035"
+      },
+      {
+        "Data": "COP-SE_k035A_door_kisimi"
+      },
+      {
+        "Data": "COP-SE_k035B_toiletdoor_kisimi"
+      },
+      {
+        "Data": "COP-SE_k035C_toiletdoor_kisimi2"
+      },
+      {
+        "Data": "COP-SE_k036"
+      },
+      {
+        "Data": "COP-SE_k036_omotobira"
+      },
+      {
+        "Data": "COP-SE_k037"
+      },
+      {
+        "Data": "COP-SE_k037_tana_taore"
+      },
+      {
+        "Data": "COP-SE_k038"
+      },
+      {
+        "Data": "COP-SE_k038_butsukari"
+      },
+      {
+        "Data": "COP-SE_k039"
+      },
+      {
+        "Data": "COP-SE_k040"
+      },
+      {
+        "Data": "COP-SE_k041"
+      },
+      {
+        "Data": "COP-SE_k041_musyari"
+      },
+      {
+        "Data": "COP-SE_k042"
+      },
+      {
+        "Data": "COP-SE_k042_musyamusya"
+      },
+      {
+        "Data": "COP-SE_k043"
+      },
+      {
+        "Data": "COP-SE_k044"
+      },
+      {
+        "Data": "COP-SE_k044a_nikuhen_botori"
+      },
+      {
+        "Data": "COP-SE_k046"
+      },
+      {
+        "Data": "COP-SE_k047"
+      },
+      {
+        "Data": "COP-SE_k047_sinrei_miminari"
+      },
+      {
+        "Data": "COP-SE_k048"
+      },
+      {
+        "Data": "COP-SE_k048_sinrei_a"
+      },
+      {
+        "Data": "COP-SE_k049"
+      },
+      {
+        "Data": "COP-SE_k049_sinrei_b"
+      },
+      {
+        "Data": "COP-SE_k050"
+      },
+      {
+        "Data": "COP-SE_k051"
+      },
+      {
+        "Data": "COP-SE_k052"
+      },
+      {
+        "Data": "COP-SE_k053"
+      },
+      {
+        "Data": "COP-SE_k053_Hikizuri"
+      },
+      {
+        "Data": "COP-SE_k054"
+      },
+      {
+        "Data": "COP-SE_k054_tsukitobasi_echo_"
+      },
+      {
+        "Data": "COP-SE_k055"
+      },
+      {
+        "Data": "COP-SE_k055_fly_s01"
+      },
+      {
+        "Data": "COP-SE_k056"
+      },
+      {
+        "Data": "COP-SE_k056_fly_s02"
+      },
+      {
+        "Data": "COP-SE_k057"
+      },
+      {
+        "Data": "COP-SE_k057_fly_s03"
+      },
+      {
+        "Data": "COP-SE_k058"
+      },
+      {
+        "Data": "COP-SE_k059"
+      },
+      {
+        "Data": "COP-SE_k059_kaidan_ochi"
+      },
+      {
+        "Data": "COP-SE_k060"
+      },
+      {
+        "Data": "COP-SE_k060_chakuchi_a"
+      },
+      {
+        "Data": "COP-SE_k061"
+      },
+      {
+        "Data": "COP-SE_k062"
+      },
+      {
+        "Data": "COP-SE_k062_mizuchoro"
+      },
+      {
+        "Data": "COP-SE_k063"
+      },
+      {
+        "Data": "COP-SE_k063_door_Gachari"
+      },
+      {
+        "Data": "COP-SE_k064"
+      },
+      {
+        "Data": "COP-SE_k065"
+      },
+      {
+        "Data": "COP-SE_k066"
+      },
+      {
+        "Data": "COP-SE_k066_hiSpeed"
+      },
+      {
+        "Data": "COP-SE_k066foot_low"
+      },
+      {
+        "Data": "COP-SE_k067"
+      },
+      {
+        "Data": "COP-SE_k067foot_low2"
+      },
+      {
+        "Data": "COP-SE_k068"
+      },
+      {
+        "Data": "COP-SE_k068_foot_toujyou"
+      },
+      {
+        "Data": "COP-SE_k068b_foot_run_saru"
+      },
+      {
+        "Data": "COP-SE_k069"
+      },
+      {
+        "Data": "COP-SE_k069_asi_A"
+      },
+      {
+        "Data": "COP-SE_k070"
+      },
+      {
+        "Data": "COP-SE_k070_asi_B"
+      },
+      {
+        "Data": "COP-SE_k071"
+      },
+      {
+        "Data": "COP-SE_k071_mizukobore"
+      },
+      {
+        "Data": "COP-SE_k071_sikkin"
+      },
+      {
+        "Data": "COP-SE_k072"
+      },
+      {
+        "Data": "COP-SE_k073"
+      },
+      {
+        "Data": "COP-SE_k073_taore"
+      },
+      {
+        "Data": "COP-SE_k074"
+      },
+      {
+        "Data": "COP-SE_k074_mado_katakata"
+      },
+      {
+        "Data": "COP-SE_k075"
+      },
+      {
+        "Data": "COP-SE_k075_madoware1"
+      },
+      {
+        "Data": "COP-SE_k076"
+      },
+      {
+        "Data": "COP-SE_k076_madoware1"
+      },
+      {
+        "Data": "COP-SE_k077"
+      },
+      {
+        "Data": "COP-SE_k077_warp2"
+      },
+      {
+        "Data": "COP-SE_k078"
+      },
+      {
+        "Data": "COP-SE_k078_iekihaki"
+      },
+      {
+        "Data": "COP-SE_k078A_gopo"
+      },
+      {
+        "Data": "COP-SE_k078B_awahaki"
+      },
+      {
+        "Data": "COP-SE_k079"
+      },
+      {
+        "Data": "COP-SE_k079foot_high"
+      },
+      {
+        "Data": "COP-SE_k080"
+      },
+      {
+        "Data": "COP-SE_k080_tobira_keri_Roop"
+      },
+      {
+        "Data": "COP-SE_k081"
+      },
+      {
+        "Data": "COP-SE_k082"
+      },
+      {
+        "Data": "COP-SE_k082_kigire_karan"
+      },
+      {
+        "Data": "COP-SE_k083"
+      },
+      {
+        "Data": "COP-SE_k083_Blood_fuki"
+      },
+      {
+        "Data": "COP-SE_k084"
+      },
+      {
+        "Data": "COP-SE_k085"
+      },
+      {
+        "Data": "COP-SE_k086"
+      },
+      {
+        "Data": "COP-SE_k086run_B"
+      },
+      {
+        "Data": "COP-SE_k087dageki_g_01"
+      },
+      {
+        "Data": "COP-SE_k088dageki_g_02"
+      },
+      {
+        "Data": "COP-SE_k089dageki_g_03"
+      },
+      {
+        "Data": "COP-SE_k090yudach"
+      },
+      {
+        "Data": "COP-SE_k090yudach_large"
+      },
+      {
+        "Data": "COP-SE_k091small_thunder_"
+      },
+      {
+        "Data": "COP-SE_k092cartoon_thunder"
+      },
+      {
+        "Data": "COP-SE_k093toon_thund_small"
+      },
+      {
+        "Data": "COP-SE_k094_TVNoize2"
+      },
+      {
+        "Data": "COP-SE_k096_sukimawind_l"
+      },
+      {
+        "Data": "COP-SE_k097_ono_hurioroshi"
+      },
+      {
+        "Data": "COP-SE_k098_taore_goto"
+      },
+      {
+        "Data": "COP-SE_k099_taore_dosa"
+      },
+      {
+        "Data": "COP-SE_k100_taore_docha"
+      },
+      {
+        "Data": "COP-SE_k102_beaz"
+      },
+      {
+        "Data": "COP-SE_k103_beaz_korogaru"
+      },
+      {
+        "Data": "COP-SE_k104_shamail"
+      },
+      {
+        "Data": "COP-SE_k104_shamail01"
+      },
+      {
+        "Data": "COP-SE_k105A_huku_gyu"
+      },
+      {
+        "Data": "COP-SE_k105B_huku_basa"
+      },
+      {
+        "Data": "COP-SE_k105B_huku_basa2"
+      },
+      {
+        "Data": "COP-SE_k106_gaba"
+      },
+      {
+        "Data": "COP-SE_k107_bed_01"
+      },
+      {
+        "Data": "COP-SE_k108_bed_02"
+      },
+      {
+        "Data": "COP-SE_k109_tetsudoor_open"
+      },
+      {
+        "Data": "COP-SE_k110_knife_sashi.wav"
+      },
+      {
+        "Data": "COP-SE_k111_Eye_sashi"
+      },
+      {
+        "Data": "COP-SE_k111b_Eye_nuki"
+      },
+      {
+        "Data": "COP-SE_k112hasami_x1"
+      },
+      {
+        "Data": "COP-SE_k113hasami_loop"
+      },
+      {
+        "Data": "COP-SE_k114_hone_gori_1"
+      },
+      {
+        "Data": "COP-SE_k115_hone_gori_2"
+      },
+      {
+        "Data": "COP-SE_k116_chisibuki"
+      },
+      {
+        "Data": "COP-SE_k117_knife_furi"
+      },
+      {
+        "Data": "COP-SE_k118_Kisihimi_short"
+      },
+      {
+        "Data": "COP-SE_k119_mizu_ukiA"
+      },
+      {
+        "Data": "COP-SE_k120mizu_ukiB"
+      },
+      {
+        "Data": "COP-SE_k121"
+      },
+      {
+        "Data": "COP-SE_k122_furomado_ware"
+      },
+      {
+        "Data": "COP-SE_k124_keitai_Full"
+      },
+      {
+        "Data": "COP-SE_k125_kubitsuri_kaisi"
+      },
+      {
+        "Data": "COP-SE_k126_kubitsuri_rope"
+      },
+      {
+        "Data": "COP-SE_k128_kubitsuri_rope_roop"
+      },
+      {
+        "Data": "COP-SE_k129_born_boki"
+      },
+      {
+        "Data": "COP-SE_k130_baketsu_huminuki"
+      },
+      {
+        "Data": "COP-SE_k131_foot_hasirisari_satoshi"
+      },
+      {
+        "Data": "COP-SE_k136_Pechi"
+      },
+      {
+        "Data": "COP-SE_k137_Pechi"
+      },
+      {
+        "Data": "COP-SE_k138kakon"
+      },
+      {
+        "Data": "COP-SE_k140_asabukuro_open"
+      },
+      {
+        "Data": "COP-SE_k141_asabukuro"
+      },
+      {
+        "Data": "COP-SE_k142_hakusyu"
+      },
+      {
+        "Data": "COP-SE_k143_naomi_chou"
+      },
+      {
+        "Data": "COP-SE_k144_kagi_catch"
+      },
+      {
+        "Data": "COP-SE_k145_Tv_Stop"
+      },
+      {
+        "Data": "COP-SE_k146_switch"
+      },
+      {
+        "Data": "COP-SE_k147_door_taosu"
+      },
+      {
+        "Data": "COP-SE_k148_door_ochiru"
+      },
+      {
+        "Data": "COP-SE_k150_foot_A"
+      },
+      {
+        "Data": "COP-SE_k150_foot_B"
+      },
+      {
+        "Data": "COP-SE_k150_foot_yoshikazu_Tsuchi"
+      },
+      {
+        "Data": "COP-SE_k150_foot_yoshikazu_Tsuchi_small"
+      },
+      {
+        "Data": "COP-SE_k151_hasami_loop_01"
+      },
+      {
+        "Data": "COP-SE_k152_hasami_loop_02"
+      },
+      {
+        "Data": "COP-SE_k153a_knife_sasu_01"
+      },
+      {
+        "Data": "COP-SE_k153b_knife_sasu_02"
+      },
+      {
+        "Data": "COP-SE_k153c_knife_sasu_03"
+      },
+      {
+        "Data": "COP-SE_k153d_knife_sasu_04"
+      },
+      {
+        "Data": "COP-SE_k154_Blood_Tokiko"
+      },
+      {
+        "Data": "COP-SE_k155_close_door"
+      },
+      {
+        "Data": "COP-SE_k156_open_door"
+      },
+      {
+        "Data": "COP-SE_k158_Jyoukei_Insect2"
+      },
+      {
+        "Data": "COP-SE_k162_door_paaan"
+      },
+      {
+        "Data": "COP-SE_k163_eguri_00"
+      },
+      {
+        "Data": "COP-SE_k164_eguri_01"
+      },
+      {
+        "Data": "COP-SE_k165_hidari_mimi_s"
+      },
+      {
+        "Data": "COP-SE_k166_chisibuki"
+      },
+      {
+        "Data": "COP-SE_kuuki_C1A_014"
+      },
+      {
+        "Data": "COP-SE_kuuki_C1B_019"
+      },
+      {
+        "Data": "COP-SE_kuuki_C1B_Small_019"
+      },
+      {
+        "Data": "COP-SE_kuuki_C1C_020"
+      },
+      {
+        "Data": "COP-SE_kuuki_C1MAX_021"
+      },
+      {
+        "Data": "COP-SE_kuuki_C3_MAX02_070"
+      },
+      {
+        "Data": "COP-SE_kuuki_C3A_063"
+      },
+      {
+        "Data": "COP-SE_kuuki_C3B_064"
+      },
+      {
+        "Data": "COP-SE_kuuki_C3C_066"
+      },
+      {
+        "Data": "COP-SE_kuuki_C4A_076"
+      },
+      {
+        "Data": "COP-SE_kuuki_C4B_077"
+      },
+      {
+        "Data": "COP-SE_kuuki_C4C_078"
+      },
+      {
+        "Data": "COP-SE_kuuki_C4D_079"
+      },
+      {
+        "Data": "COP-SE_kuuki_C5A_110"
+      },
+      {
+        "Data": "COP-SE_kuuki_kouisitsu_091"
+      },
+      {
+        "Data": "COP-SE_kuuki_ReiSyou01_022"
+      },
+      {
+        "Data": "COP-SE_kuuki_ReiSyou02_065"
+      },
+      {
+        "Data": "COP-SE_kuuki_ReiSyou03_121"
+      },
+      {
+        "Data": "COP-SE_kuuki_Toilet_074"
+      },
+      {
+        "Data": "COP-SE_QUAKE_007"
+      },
+      {
+        "Data": "COP-SE_QUAKE_013_Tanon"
+      },
+      {
+        "Data": "COP-SE_QUAKE_k022_Poltergeist2"
+      },
+      {
+        "Data": "COP-SE_QUAKE_k139_Poltergeist"
+      },
+      {
+        "Data": "COP-SE_rain"
+      },
+      {
+        "Data": "COP-SE_rain_rouka"
+      },
+      {
+        "Data": "COP-SE_rei_move_1_003"
+      },
+      {
+        "Data": "COP-SE_rei_move_2_045"
+      },
+      {
+        "Data": "COP-SE_rei_move_3_046"
+      },
+      {
+        "Data": "COP-SE_shockDoon_k017"
+      },
+      {
+        "Data": "COP-SE_ShockDoon2_mao031"
+      },
+      {
+        "Data": "COP-SE_shockZokuri_k020"
+      },
+      {
+        "Data": "COP-SE_sukimawind_k001"
+      },
+      {
+        "Data": "COP-SE_sukimawind_k002"
+      },
+      {
+        "Data": "COP-SE_sukimawind_l_k096"
+      },
+      {
+        "Data": "COP-SE_sukimawind_l_k096s"
+      },
+      {
+        "Data": "COP-SE_sukimawind_s_k095"
+      },
+      {
+        "Data": "COP-SE_thunder_cartoon_k092"
+      },
+      {
+        "Data": "COP-SE_thunder_cartoon_s_k093"
+      },
+      {
+        "Data": "COP-SE_thunder_small_k091"
+      },
+      {
+        "Data": "COP-SE_thunder_Tanpatsu_k004"
+      },
+      {
+        "Data": "COP-SE_thunder01"
+      },
+      {
+        "Data": "COP-SE_yudach_K090"
+      },
+      {
+        "Data": "COP-SE_yudach_K090_large"
+      },
+      {
+        "Data": "COP-SE_yudach_room_001"
+      },
+      {
+        "Data": "COP-SE001"
+      },
+      {
+        "Data": "COP-SE001_s"
+      },
+      {
+        "Data": "COP-SE002"
+      },
+      {
+        "Data": "COP-SE003"
+      },
+      {
+        "Data": "COP-SE003_rei_move_1"
+      },
+      {
+        "Data": "COP-SE004"
+      },
+      {
+        "Data": "COP-SE004_tobira_slide"
+      },
+      {
+        "Data": "COP-SE005"
+      },
+      {
+        "Data": "COP-SE005_docha"
+      },
+      {
+        "Data": "COP-SE006"
+      },
+      {
+        "Data": "COP-SE007"
+      },
+      {
+        "Data": "COP-SE008"
+      },
+      {
+        "Data": "COP-SE009"
+      },
+      {
+        "Data": "COP-SE010"
+      },
+      {
+        "Data": "COP-SE011"
+      },
+      {
+        "Data": "COP-SE011_glass_clash"
+      },
+      {
+        "Data": "COP-SE012"
+      },
+      {
+        "Data": "COP-SE012_warp1"
+      },
+      {
+        "Data": "COP-SE013"
+      },
+      {
+        "Data": "COP-SE014"
+      },
+      {
+        "Data": "COP-SE014-sub"
+      },
+      {
+        "Data": "COP-SE015"
+      },
+      {
+        "Data": "COP-SE015_HIT_DON"
+      },
+      {
+        "Data": "COP-SE016"
+      },
+      {
+        "Data": "COP-SE016_HIT_GAN"
+      },
+      {
+        "Data": "COP-SE017"
+      },
+      {
+        "Data": "COP-SE017_HIT_ZUON"
+      },
+      {
+        "Data": "COP-SE018"
+      },
+      {
+        "Data": "COP-SE018_UnLock"
+      },
+      {
+        "Data": "COP-SE019"
+      },
+      {
+        "Data": "COP-SE019_Kuuki_D"
+      },
+      {
+        "Data": "COP-SE019BIG"
+      },
+      {
+        "Data": "COP-SE020"
+      },
+      {
+        "Data": "COP-SE020_Kuuki_E"
+      },
+      {
+        "Data": "COP-SE021"
+      },
+      {
+        "Data": "COP-SE021_kuuki_MAX02"
+      },
+      {
+        "Data": "COP-SE022"
+      },
+      {
+        "Data": "COP-SE022_kuuki_ReiSyou01"
+      },
+      {
+        "Data": "COP-SE023"
+      },
+      {
+        "Data": "COP-SE024"
+      },
+      {
+        "Data": "COP-SE024_hone_boki"
+      },
+      {
+        "Data": "COP-SE025"
+      },
+      {
+        "Data": "COP-SE025_tobira_tataki"
+      },
+      {
+        "Data": "COP-SE027"
+      },
+      {
+        "Data": "COP-SE028"
+      },
+      {
+        "Data": "COP-SE029"
+      },
+      {
+        "Data": "COP-SE030"
+      },
+      {
+        "Data": "COP-SE030_Ito_Maki"
+      },
+      {
+        "Data": "COP-SE031"
+      },
+      {
+        "Data": "COP-SE031_Shock_mao"
+      },
+      {
+        "Data": "COP-SE032"
+      },
+      {
+        "Data": "COP-SE033"
+      },
+      {
+        "Data": "COP-SE033_mizuchoro"
+      },
+      {
+        "Data": "COP-SE033_sikkin_B"
+      },
+      {
+        "Data": "COP-SE034"
+      },
+      {
+        "Data": "COP-SE034_switch"
+      },
+      {
+        "Data": "COP-SE035"
+      },
+      {
+        "Data": "COP-SE036"
+      },
+      {
+        "Data": "COP-SE037"
+      },
+      {
+        "Data": "COP-SE037_Hakka"
+      },
+      {
+        "Data": "COP-SE038"
+      },
+      {
+        "Data": "COP-SE038_tobira_kagi"
+      },
+      {
+        "Data": "COP-SE039"
+      },
+      {
+        "Data": "COP-SE039_TV_noize"
+      },
+      {
+        "Data": "COP-SE039_TV_noize_Big"
+      },
+      {
+        "Data": "COP-SE039_TV_noize_Small"
+      },
+      {
+        "Data": "COP-SE039_TV_ON_124"
+      },
+      {
+        "Data": "COP-SE040"
+      },
+      {
+        "Data": "COP-SE041"
+      },
+      {
+        "Data": "COP-SE042"
+      },
+      {
+        "Data": "COP-SE042_sikkin_A"
+      },
+      {
+        "Data": "COP-SE043"
+      },
+      {
+        "Data": "COP-SE045"
+      },
+      {
+        "Data": "COP-SE045_rei_move_2"
+      },
+      {
+        "Data": "COP-SE046"
+      },
+      {
+        "Data": "COP-SE046_rei_move_3"
+      },
+      {
+        "Data": "COP-SE047"
+      },
+      {
+        "Data": "COP-SE048"
+      },
+      {
+        "Data": "COP-SE048_kaidan_kisimi"
+      },
+      {
+        "Data": "COP-SE049"
+      },
+      {
+        "Data": "COP-SE049_kaidan_kisimi"
+      },
+      {
+        "Data": "COP-SE050"
+      },
+      {
+        "Data": "COP-SE050_souchi_On"
+      },
+      {
+        "Data": "COP-SE051"
+      },
+      {
+        "Data": "COP-SE052"
+      },
+      {
+        "Data": "COP-SE053"
+      },
+      {
+        "Data": "COP-SE054"
+      },
+      {
+        "Data": "COP-SE055"
+      },
+      {
+        "Data": "COP-SE055_Yukaita_Slide"
+      },
+      {
+        "Data": "COP-SE056"
+      },
+      {
+        "Data": "COP-SE056_glass_fumi"
+      },
+      {
+        "Data": "COP-SE058"
+      },
+      {
+        "Data": "COP-SE058_mado_ban"
+      },
+      {
+        "Data": "COP-SE059"
+      },
+      {
+        "Data": "COP-SE060"
+      },
+      {
+        "Data": "COP-SE060_chakusin"
+      },
+      {
+        "Data": "COP-SE061"
+      },
+      {
+        "Data": "COP-SE061_pi"
+      },
+      {
+        "Data": "COP-SE062_shamail02"
+      },
+      {
+        "Data": "COP-SE062_syame01"
+      },
+      {
+        "Data": "COP-SE063_kuuki_A"
+      },
+      {
+        "Data": "COP-SE064_kuuki_B"
+      },
+      {
+        "Data": "COP-SE065_kuuki_ReiSyou02"
+      },
+      {
+        "Data": "COP-SE066_kuuki_C.wav"
+      },
+      {
+        "Data": "COP-SE068_ame_MAO"
+      },
+      {
+        "Data": "COP-SE069"
+      },
+      {
+        "Data": "COP-SE070"
+      },
+      {
+        "Data": "COP-SE071_Hikizuri_HAMMER01"
+      },
+      {
+        "Data": "COP-SE072_Tougoku_YOSIKI"
+      },
+      {
+        "Data": "COP-SE073_Hikizuri_HAMMER02"
+      },
+      {
+        "Data": "COP-SE073A_Hikizuri_HAMMER02"
+      },
+      {
+        "Data": "COP-SE074_kuuki_Toilet"
+      },
+      {
+        "Data": "COP-SE075pianoBAN"
+      },
+      {
+        "Data": "COP-SE080_mizu_Dobon"
+      },
+      {
+        "Data": "COP-SE081_mizu_oyogi"
+      },
+      {
+        "Data": "COP-SE082_mizu_moguri"
+      },
+      {
+        "Data": "COP-SE083"
+      },
+      {
+        "Data": "COP-SE084"
+      },
+      {
+        "Data": "COP-SE085"
+      },
+      {
+        "Data": "COP-SE087_mizu_nuki"
+      },
+      {
+        "Data": "COP-SE088_fence"
+      },
+      {
+        "Data": "COP-SE092_foot_teppan"
+      },
+      {
+        "Data": "COP-SE093_tetsu_hasigo"
+      },
+      {
+        "Data": "COP-SE094_mizu_nuki_Tumari"
+      },
+      {
+        "Data": "COP-SE095_kyuu"
+      },
+      {
+        "Data": "COP-SE097_grrr"
+      },
+      {
+        "Data": "COP-SE098"
+      },
+      {
+        "Data": "COP-SE098_ki__nn"
+      },
+      {
+        "Data": "COP-SE099"
+      },
+      {
+        "Data": "COP-SE100_final_chime"
+      },
+      {
+        "Data": "COP-SE101"
+      },
+      {
+        "Data": "COP-SE102_tatemono_kisimi"
+      },
+      {
+        "Data": "COP-SE103_jiware"
+      },
+      {
+        "Data": "COP-SE104"
+      },
+      {
+        "Data": "COP-SE105"
+      },
+      {
+        "Data": "COP-SE106_zapping"
+      },
+      {
+        "Data": "COP-SE107_tokei"
+      },
+      {
+        "Data": "COP-SE108_keitai_koware"
+      },
+      {
+        "Data": "COP-SE109_musipool"
+      },
+      {
+        "Data": "COP-SE114_morisige_chakusin"
+      },
+      {
+        "Data": "COP-SE115"
+      },
+      {
+        "Data": "COP-SE116"
+      },
+      {
+        "Data": "COP-SE117"
+      },
+      {
+        "Data": "COP-SE118"
+      },
+      {
+        "Data": "COP-SE123_shock"
+      },
+      {
+        "Data": "COP-SE124"
+      },
+      {
+        "Data": "COP-SE125"
+      },
+      {
+        "Data": "COP-SE126"
+      },
+      {
+        "Data": "COP-SE127"
+      },
+      {
+        "Data": "COP-SE129"
+      },
+      {
+        "Data": "COP-SE129_mail_chakusin"
+      },
+      {
+        "Data": "COP-SE130"
+      },
+      {
+        "Data": "COP-SE131"
+      },
+      {
+        "Data": "COP-SE132"
+      },
+      {
+        "Data": "COP-SE133"
+      },
+      {
+        "Data": "COP-SE134"
+      },
+      {
+        "Data": "CORP-PC-006"
+      },
+      {
+        "Data": "CORP-PC-029"
+      },
+      {
+        "Data": "GOM_0000"
+      },
+      {
+        "Data": "COP-SYS-SE001"
+      },
+      {
+        "Data": "COP-SYS-SE002"
+      },
+      {
+        "Data": "COP-SYS-SE003"
+      },
+      {
+        "Data": "COP-SYS-SE003B"
+      },
+      {
+        "Data": "COP-SYS-SE004"
+      },
+      {
+        "Data": "COP-SYS-SE004B"
+      },
+      {
+        "Data": "COP-SYS-SE005"
+      },
+      {
+        "Data": "COP-SYS-SE006"
+      },
+      {
+        "Data": "COP-SYS-SE007"
+      },
+      {
+        "Data": "COP-SYS-SE009"
+      },
+      {
+        "Data": "COP-SWSE00"
+      },
+      {
+        "Data": "COP-SWSE01"
+      },
+      {
+        "Data": "COP-SWSE02"
+      },
+      {
+        "Data": "COP-SWSE03"
+      },
+      {
+        "Data": "COP-SWSE04"
+      },
+      {
+        "Data": "COP-SWSE05"
+      },
+      {
+        "Data": "COP-SWSE06"
+      },
+      {
+        "Data": "COP-SE-ANN_0000B"
+      },
+      {
+        "Data": "COP-SYS-SE011"
+      },
+      {
+        "Data": "COP-SE_k018A"
+      },
+      {
+        "Data": "COP-SE_k018B"
+      },
+      {
+        "Data": "COP-SE_k018C"
+      },
+      {
+        "Data": "COP-SE_k018D"
+      },
+      {
+        "Data": ""
+      }
+    ]
+  }
+}
