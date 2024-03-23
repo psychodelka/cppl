@@ -52,7 +52,7 @@
       {
         "Message": {
           "Array": [
-            "Było tak, jak dziś...",
+            "Było dzień był taki jak dziś...",
             "Po szkole padał deszcz...",
             ""
           ]
@@ -90,10 +90,10 @@
       {
         "Message": {
           "Array": [
-            "...You've all heard the stories, no? Before",
-            "Kisaragi Academy was built here, there was",
-            "another school on this property.",
-            ""
+            "...przecież wszyscy już o tym wiemy, co nie?",
+            "Zanim wybudowano naszą akademię...",
+            " ",
+            " "
           ]
         },
         "Name": "",
@@ -110,9 +110,9 @@
       {
         "Message": {
           "Array": [
-            "Heavenly Host Elementary School, it was called.",
-            "",
-            ""
+            "...pierwotnie stała tu niebiańska",
+            "szkoła podstawowa.",
+            " "
           ]
         },
         "Name": "",
@@ -129,8 +129,8 @@
       {
         "Message": {
           "Array": [
-            "Such a horrible thing to happen...",
-            "The principal was completely devastated.",
+            "To był nieszczęśliwy wypadek...",
+            "",
             ""
           ]
         },
@@ -148,8 +148,8 @@
       {
         "Message": {
           "Array": [
-            "He cared for the school almost as if it were",
-            "his own child, you see.",
+            "Ówczesny dyrektor troszczył się o tę szkołę",
+            "niczym o własne dziecko.",
             ""
           ]
         },
