@@ -12,35 +12,35 @@
   "cpMapNameData": {
     "Array": [
       {
-        "Data": "なし",
+        "Data": "Brak",
         "Type": 0
       },
       {
-        "Data": "Second Wing 1F - Entranceway",
+        "Data": "Skrzydło, parter – wejście",
         "Type": 0
       },
       {
-        "Data": "Second Wing 1F - East Hall",
+        "Data": "Skrzydło, parter – korytarz wschodni",
         "Type": 0
       },
       {
-        "Data": "Second Wing 1F - West Hall",
+        "Data": "Skrzydło, parter – korytarz zachodni",
         "Type": 0
       },
       {
-        "Data": "Second Wing 2F - East Hall",
+        "Data": "Skrzydło, pierwsze piętro – korytarz wschodni",
         "Type": 0
       },
       {
-        "Data": "Second Wing 2F - West Hall",
+        "Data": "Skrzydło, pierwsze piętro – korytarz zachodni",
         "Type": 0
       },
       {
-        "Data": "Abandoned Bomb Shelter",
+        "Data": "Pozostałości schronu przeciwlotniczego",
         "Type": 0
       },
       {
-        "Data": "Dissection Room",
+        "Data": "Pomieszczenie dekompozycyjne",
         "Type": 0
       },
       {
@@ -48,115 +48,115 @@
         "Type": 0
       },
       {
-        "Data": "Murder Scene",
+        "Data": "Miejsce zbrodni",
         "Type": 0
       },
       {
-        "Data": "Main Building 1F - Entranceway",
+        "Data": "Budynek główny, parter – wejście",
         "Type": 0
       },
       {
-        "Data": "Main Building 1F - East Hall",
+        "Data": "Budynek główny, parter – korytarz wschodni",
         "Type": 0
       },
       {
-        "Data": "Main Building 1F - West Hall",
+        "Data": "Budynek główny, parter – korytarz zachodni",
         "Type": 0
       },
       {
-        "Data": "Main Building 2F - Center Hall",
+        "Data": "Budynek główny, pierwsze piętro – hol główny",
         "Type": 0
       },
       {
-        "Data": "Main Building 2F - East Hall",
+        "Data": "Budynek główny, pierwsze piętro – korytarz wschodni",
         "Type": 0
       },
       {
-        "Data": "Main Building 2F - West Hall",
+        "Data": "Budynek główny, pierwsze piętro – korytarz zachodni",
         "Type": 0
       },
       {
-        "Data": "Main Building 3F - East Hall",
+        "Data": "Budynek główny, drugie piętro – korytarz wschodni",
         "Type": 0
       },
       {
-        "Data": "Main Building 3F - West Hall",
+        "Data": "Budynek główny, drugie piętro – korytarz zachodni",
         "Type": 0
       },
       {
-        "Data": "Classroom 1-A",
+        "Data": "Sala lekcyjna 1A",
         "Type": 0
       },
       {
-        "Data": "Classroom 2-A",
+        "Data": "Sala lekcyjna 2A",
         "Type": 0
       },
       {
-        "Data": "Classroom 3-A",
+        "Data": "Sala lekcyjna 3A",
         "Type": 0
       },
       {
-        "Data": "Classroom 5-A",
+        "Data": "Sala lekcyjna 5A",
         "Type": 0
       },
       {
-        "Data": "Infirmary",
+        "Data": "Gabinet pielęgniarki",
         "Type": 0
       },
       {
-        "Data": "Principal's Office",
+        "Data": "Biuro dyrektora",
         "Type": 0
       },
       {
-        "Data": "Locker Room",
+        "Data": "Szatnia",
         "Type": 0
       },
       {
-        "Data": "Music Room - Suicide Site",
+        "Data": "Sala muzyczna – miejsce samobójstwa",
         "Type": 0
       },
       {
-        "Data": "Pump Room",
+        "Data": "Pompownia",
         "Type": 0
       },
       {
-        "Data": "Poolside",
+        "Data": "Niebiańska szkoła podstawowa – pływalnia",
         "Type": 0
       },
       {
-        "Data": "Science Lab",
+        "Data": "Pracownia naukowa",
         "Type": 0
       },
       {
-        "Data": "Staff Room",
+        "Data": "Pokój nauczycielski",
         "Type": 0
       },
       {
-        "Data": "Reference Room",
+        "Data": "Archiwum",
         "Type": 0
       },
       {
-        "Data": "Custodian's Closet",
+        "Data": "Kantorek",
         "Type": 0
       },
       {
-        "Data": "Cursed Art Room",
+        "Data": "Przeklęta sala plastyczna",
         "Type": 0
       },
       {
-        "Data": "Second Wing - Boys' Lavatory",
+        "Data": "Skrzydło – toaleta męska",
         "Type": 0
       },
       {
-        "Data": "Second Wing - Girls' Lavatory",
+        "Data": "Skrzydło – toaleta damska",
         "Type": 0
       },
       {
-        "Data": "Main Building - Boys' Lavatory",
+        "Data": "Budynek główny – toaleta męska",
         "Type": 0
       },
       {
-        "Data": "Main Building - Girls' Lavatory",
+        "Data": "Budynek główny – toaleta damska",
         "Type": 0
       },
       {
@@ -208,7 +208,7 @@
         "Type": 0
       },
       {
-        "Data": "<size=840>Find the gentleman's hat",
+        "Data": "<size=840>Znajdź kapelusz dżentelmena.",
         "Type": 0
       },
       {
@@ -216,7 +216,7 @@
         "Type": 0
       },
       {
-        "Data": "<size=840>Find the gentleman's glasses",
+        "Data": "<size=840>Znajdź okulary dżentelmena.",
         "Type": 0
       },
       {
@@ -228,59 +228,59 @@
         "Type": 0
       },
       {
-        "Data": "Please, wait...",
+        "Data": "Zaczekaj, proszę...",
         "Type": 0
       },
       {
-        "Data": "Seiko: My spirit will guide your path!",
+        "Data": "Seiko: Moja dusza pokaże ci drogę!",
         "Type": 0
       },
       {
-        "Data": "Naomi: You're not dead, you know...",
+        "Data": "Naomi: Wcale nie jesteś martwa...",
         "Type": 0
       },
       {
-        "Data": "Let's all go on a field trip together \nover summer vacation...",
+        "Data": "We wakacje wybierzmy się wspólnie \nna wycieczkę...",
         "Type": 0
       },
       {
-        "Data": "Sachi... \nHave you come to find me?",
+        "Data": "Sachi... \nSzukałaś mnie?",
         "Type": 0
       },
       {
-        "Data": "Chihaya... Nana... Please be okay... \nI'm sorry I'm so...useless",
+        "Data": "Chihaya... Nana... Oby wszystko było \nz nimi w porządku... \nGłupio mi, że jestem taka... bezużyteczna.",
         "Type": 0
       },
       {
-        "Data": "Kaori... Kaori... \nI want to see you again...",
+        "Data": "Kaori... Kaori... \nChcę znowu się z tobą zobaczyć...",
         "Type": 0
       },
       {
-        "Data": "Let me out!",
+        "Data": "Wypuść mnie!",
         "Type": 0
       },
       {
-        "Data": "Koito... Koito! Please, no...!",
+        "Data": "Koito... Koito! Błagam, nie...!",
         "Type": 0
       },
       {
-        "Data": "Gihh it back...",
+        "Data": "Ohhaj...",
         "Type": 0
       },
       {
-        "Data": "- It hurts... \n- Make it stop... \n- Oh God, my head!",
+        "Data": "— To boli... \n— Już dość... \n— Boże, moja głowa!",
         "Type": 0
       },
       {
-        "Data": "Mother...",
+        "Data": "Mamo...",
         "Type": 0
       },
       {
-        "Data": "I'll kill you...",
+        "Data": "Zabiję cię...",
         "Type": 0
       },
       {
-        "Data": "We were killed by an educator...",
+        "Data": "Zostaliśmy zabici przez wychowawcę...",
         "Type": 0
       },
       {
@@ -288,35 +288,35 @@
         "Type": 0
       },
       {
-        "Data": "The scho-- The school day is now over. \nAny students still in the building...\n...may never go home again...",
+        "Data": "Dzisiejsze za-zajęcia dobiegły końca. \nUczniowie, którzy wciąż pozostali w budynku...\n...mogą już nigdy nie wrócić domu...",
         "Type": 0
       },
       {
-        "Data": "I'm going to kill you... \nI'm going to kill you, Yuka! Hey!",
+        "Data": "Zabiję cię... \nYuka, zabiję cię! Ej!",
         "Type": 0
       },
       {
-        "Data": "Yuukaa...?",
+        "Data": "Yuuuka...?",
         "Type": 0
       },
       {
-        "Data": "Be a good girl, Yuka, and come with me...",
+        "Data": "Bądź grzeczną dziewczynką, Yuka, \nchodź do mnie...",
         "Type": 0
       },
       {
-        "Data": "Come out, come out wherever you are!",
+        "Data": "Pokaż się, gdziekolwiek jesteś!",
         "Type": 0
       },
       {
-        "Data": "This way... Hurry!",
+        "Data": "Tędy... Prędko!",
         "Type": 0
       },
       {
-        "Data": "She's the one at fault.",
+        "Data": "To jej wina.",
         "Type": 0
       },
       {
-        "Data": "She clearly overreacted to the situation!",
+        "Data": "Widać, że przegięła ze swoją reakcją!",
         "Type": 0
       },
       {
@@ -328,11 +328,11 @@
         "Type": 0
       },
       {
-        "Data": "<size=1200><align=\"center\">After Effect...",
+        "Data": "<size=1200><align=\"center\">Skutek uboczny...",
         "Type": 0
       },
       {
-        "Data": "<size=1200><align=\"center\">Geranium",
+        "Data": "<size=1200><align=\"center\">Pelargonia",
         "Type": 0
       },
       {
@@ -358,3 +358,6 @@
     ]
   }
 }
+
+
+

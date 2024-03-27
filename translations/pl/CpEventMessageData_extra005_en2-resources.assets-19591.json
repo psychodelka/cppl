@@ -1,0 +1,871 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra005_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Oh, hey! Does this mean I get to ask her on a date\nnow?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 155,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh...? How'd you get THAT line? That was never even\nan option when I played...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But of course! I am Katayama, the sommelier of love!\n...Feel free to call me that, too, if you'd like.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 156,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Don't think you're the cock of the walk just yet.\nTry clearing the game once...then we'll talk.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, don't worry, I'll clear the shit out of it!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 157,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I appreciate that you're getting into your little\ngame over there, but I hope you haven't forgotten\nthat this is the student council room.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Of course we haven't forgotten.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 158,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, don't worry. We do this all the time.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We're just messing around. It's totally harmless.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 159,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yep. Just let us know when you're done in here,\nMasato, and we can all head on home.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sigh* You know...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ah! Ryosuke, what the hell? Are you seriously\nplanning on two-timing her?!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heheh. There's plenty of me to go around! Aaaaaand,\nboom goes the dynamite!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 160,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, God! I can't believe you just did that!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What up, boys?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come on, why can't you just pick your favorite like\na normal player?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm? What's all the hubbub? I want in!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "They're playing a stupid dating sim.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "O-ho! Gaming, are you? You guys just can't seem to\nget enough!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Did I detect a hint of dual entendre there...you\nbastard?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Maaaybe. I mean...you know...those kinds of games...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Don't knock 'em till you've tried 'em.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You think you can win me over?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, how about you see for yourself?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 162,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whoa... Damn, she is super-cute!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Isn't she?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Get a load of the graphics on this thing. Super-\nrealistic! ...Hey, you know who I'd love to see\nplaying this? Fukuroi...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That would be something!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fu - ku - ro - i? This game is pretty good stuff.\nWhy not come on over to where the cool kids are\nhangin' out, and give it a whirl?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 52,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Uhhh... I've got work to do, you know...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 12,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ehh, don't be such a stick-in-the-mud. Come on,\nFukuroi, just pick your favorite girl. I insist!\nIn fact...I won't leave you alone until you do!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You guys are such pains in my ass...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Woooow, that one's real purdy... Hoohoo,\nand look at her! She's so tiny! ...Oh man, and that\none's got huuuuge boobs...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ła!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That was a pretty quick decision. See big boobs,\npress confirm!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fukuroi, I had no idea! Heh... Big tits does it\nfor you, eh?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "K-Keep your voice down! God!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaand the truth comes out. But it's okay! I can\ndefinitely see it. Yeah... Good choice, man!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Grr...rrrrng...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A person's true colors always come out when they\nplay games like this.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Katayama",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "They seem like some pretty predictable colors for\na hardass like him, though...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Sh-Shut up!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Fukuroi",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heh. No need to be embarrassed!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hahahahahahaha! ...Well, that's all the time we\nhave, it seems. I gotta get to practice.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But before I go...Katayama...\nWould you mind lending that game to me for real\nsometime...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

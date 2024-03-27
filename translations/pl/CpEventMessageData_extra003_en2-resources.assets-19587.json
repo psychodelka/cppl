@@ -1,0 +1,1232 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra003_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Hey, Sis, you there?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm? Yeah, I'm here. Come on in.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I see you slumping those tiny shoulders of yours.\nWhat's the matter?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Your cute little face is all stained with tears!\nCome on over. Let's hear it.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So, did you just want some quiet affection, or do\nyou want to talk about it?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...I want to ask you something.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh? All right, then. Ask away.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's about your work...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "How old were you when you decided this is what you\nwanted to do?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmmm... Good question. I guess...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...I was around your age, Ayumi.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Were you...sure that it's what you wanted to do?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I was. Because...I trusted that a higher power was\nguiding me.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There were certainly a lot of people opposed to the\nidea...heh, but I guess you knew that already, since\nyou were there! Heehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You're really awesome, you know that, Sis?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I...don't have a lot of faith in my own abilities.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No matter what I set out to do...I can never seem to\nbring myself to take that first step.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It just...scares me...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Self-confidence... Such a complex, vital thing, yet\nso deceptively simple-sounding.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I know you have it in you, Ayumi, to do great\nthings. I've seen your true potential blossoming\nfor a long time now.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's a skill you've honed from trial after trial,\nhardship after hardship. All of which you've\novercome through sheer force of will.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But what good are your accomplishments if you don't\nbelieve in yourself?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You are Ayumi, the budding illustrator -- always\ndrawing in hopes that one day, your dream can become\na reality. Ayumi, the dedicated...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ayumi, the rebel...never letting Mom and Dad\nconvince you to 'choose a more stable occupation,'\nno matter how many times they may try.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ayumi, the dreamer...continuing to draw beautiful\nworks of art, with such excitement and fire in those\ncute little eyes of yours.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If you don't believe in all those fantastic Ayumis,\nthen who on earth will?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mm...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You know what I think? I think there's still another\nAyumi hiding in there somewhere. An Ayumi with\nsomething bothering her.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Mmm...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You can come out now, troubled one. Let's hear\nwhat's on your mind.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There are...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...There are so many people who are so much\nbetter than I am! If you look on the net,\nthey're everywhere...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thousands, maybe even tens of thousands of really\ngood illustrators... It's really disheartening,\nyou know?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's like, no matter how much skill and luck\nI've got, I just keep thinking...they're my\ncompetition...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I have a friend who draws pictures for a living,\nactually.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And she wouldn't be where she is today if she hadn't\ntaken some initiative. The only way to get ahead in\nlife and achieve your dreams...is to take action.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Have you ever heard of this author? She's been\nmaking waves in the field of paranormal research,\nand is extremely well-respected for her age.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hinoe handed a book to Ayumi.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm... How do you read the characters in her name?\nSaeno...ki?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho Saenoki. She's been putting out book after book\njust like this for quite some time now, making quite\na name for herself in the process.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Not only has she earned the respect of her peers,\nbut literary circles are saying she's a strong\ncontender for winning this term's Akutagawa award.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wow...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The most interesting part, though, is that she's\nabout the same age as you, Ayumi.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mm? Mmm...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What's more is, she didn't learn her writing or\nproblem-solving skills from any teacher.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No, she apparently just kept on writing stories and\nessays until she was satisfied. Because for her,\nwriting is fun, pure and simple!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fun, huh...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You need to have faith. Never forget why you got\ninto illustration in the first place...and if at\nfirst you don't succeed, try, try again!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I struggle with this sort of thing all the time.\nBut I just keep reminding myself, this is what\nI was meant to do. It's what I love. Heheh.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Okay, Sis.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You win. I'm going to keep at it...until I become\na full-on professional!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's the spirit.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And you know what else? This contemporary of mine...\nNaho, was it? Mark my words...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "One day, I'm going to be the girl they contract to\ndesign the cover for one of her books.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Are you, now? Well, that sounds fantastic! I'll be\nawaiting that day with bated breath.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll show your book to all my clients, and\nsay...look at this! My little sister drew it!\nIsn't it wonderful?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So you'll...support me?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Of course.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I love you so much, Sis!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll always be rooting for you, Ayumi...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Hinoe",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

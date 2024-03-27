@@ -1,0 +1,700 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra011_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Big brooootheer! Lookee what I got!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's super-cool, and smells super-sweet! ...Huh?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He's not here? Awww...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yuka...?\nI didn't know you were back. You should say\nsomething when you get home!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm hoooooome!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hey, weren't you collecting those promotional UPC\ncodes with the bell symbol on them?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Uh-huh.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, today's your lucky day. I got a whole bunch of\nthem from Mrs. Satou next door. She said to give\nthem to you.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ła!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Pretty good haul, no? So what are you gonna do with\nthem? Can you take them to school yourself, or would\nyou prefer I drive them over?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll take 'em!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "All right. Looking to hog all the glory for\nyourself, eh? ...Wow, you've got quite a haul\ntoo! What on earth have you been buying?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Beads!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ohhhh yeeaaah, those scented beads you keep carrying\non about...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 166,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I just bought another bottle, too. It's caramel\nflavor!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Flavor...?)\nI see. And what effect does this one have?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 167,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, it keeps you safe from injury and harm,\naaaand it does something else, too...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmmmm?\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...I'm not telling!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heh. A secret, huh? Well, make sure you take good\ncare of it, then.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 169,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Okay!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eheheh... The power of love. Make your true\nfeelings known to that special someone...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Really, now? Is that a fact?!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ach!\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Caught ya' red-handed! So, fess up, who you planning\non giving it to? A friend from class?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm DEFINITELY not telling!\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*giggle* All right, I won't push my luck.\n...Oh, but Yuka? I've been meaning to talk to you...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You need to stop leaving your socks and underwear\non Satoshi's bed, okay?\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oogh...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I do appreciate you folding the laundry all by\nyourself, without anyone asking...\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...but if you forget to take your clothes back to\nyour room afterward, it kind of defeats the point,\nyou know?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oooohhh... Okay, I'll be more careful.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Good, good.\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 177,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And Yuka? About those beads...\nGOOD LUCK.\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mom",
+        "NameFlag": 1,
+        "VoiceNo_low": 178,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thanks! Eheheh...\n\n",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuka",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}
